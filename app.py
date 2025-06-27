@@ -8,7 +8,7 @@ import numpy as np
 import joblib
 from collections import defaultdict
 from datetime import datetime, timezone, timedelta
-from Backend.chatbot_response import get_chatbot_response
+from chatbot_response import get_chatbot_response
 import os
 
 app = Flask(__name__)
