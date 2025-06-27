@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: trail-backend
+    env: python
+    buildCommand: ""
+    startCommand: python app.py
+    envVars:
+      - key: GITHUB_CLIENT_ID
+        sync: false
+      - key: GITHUB_CLIENT_SECRET
+        sync: false
+      - key: LINKEDIN_CLIENT_ID
+        sync: false
+      - key: LINKEDIN_CLIENT_SECRET
+        sync: false
+      - key: LINKEDIN_REDIRECT_URI
+        sync: false
+      - key: FRONTEND_URL
+        sync: false

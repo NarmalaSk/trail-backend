@@ -1,0 +1,866 @@
+Rank,Domain,Total Score,Stories,Average Score,Author,Bio,Categories
+1,paulgraham.com,96715.0,387.0,250.0,Paul Graham,"Co-founder of Y Combinator, entrepreneur, and essayist","Tech Business, Startups, Productivity and Tools, Tech Culture"
+2,krebsonsecurity.com,84379.0,462.0,183.0,Brian Krebs,Independent journalist,"Cybersecurity, Tech Policy, Privacy"
+3,jvns.ca,50127.0,246.0,204.0,Julia Evans,Developer and zine author,"Systems Programming, Operating Systems, Software Engineering, Tech Culture"
+4,danluu.com,48169.0,206.0,234.0,Dan Luu,Engineer and writer,"Tech Culture, Big Tech, AI and Machine Learning"
+5,daringfireball.net,48079.0,436.0,110.0,John Gruber,Technology blogger,"Tech Policy, Big Tech, Tech Culture"
+6,simonwillison.net,46892.0,215.0,218.0,Simon Willison,Developer and co-creator of Django,"AI and Machine Learning, Data Science, Web Development, Open Source Software"
+7,stratechery.com,44237.0,255.0,173.0,Ben Thompson,Technology analyst,"Tech Business, Big Tech, Tech Culture, Tech Policy"
+8,righto.com,43960.0,311.0,141.0,Ken Shirriff,Vintage computer enthusiast,"Hardware and Electronics, History of Technology, Gaming and Retro Computing, Computer Science"
+9,troyhunt.com,41992.0,180.0,233.0,Troy Hunt,Security expert and instructor,
+11,kalzumeus.com,41254.0,179.0,230.0,Patrick McKenzie,Developer and consultant,"Finance and FinTech, Cryptography, Tech Business, Tech Policy"
+12,schneier.com,40385.0,376.0,107.0,Bruce Schneier,Security technologist and author,
+13,jacquesmattheij.com,39444.0,231.0,171.0,Jacques Mattheij,Entrepreneur and technologist,
+14,shkspr.mobi,38361.0,236.0,163.0,Terence Eden,Technology consultant and writer,"Web Development, Software Engineering, Programming Languages, Open Source Software"
+15,blog.samaltman.com,35470.0,126.0,282.0,Sam Altman,Entrepreneur and investor,"AI and Machine Learning, Tech Business, Startups, Tech Policy"
+16,marco.org,34476.0,236.0,146.0,Marco Arment,Developer and podcaster,
+17,utcc.utoronto.ca/~cks/space/blog/,33809.0,296.0,114.0,Chris Siebenmann,Unix system administrator at University of Toronto,
+18,blog.codinghorror.com,32762.0,294.0,111.0,Jeff Atwood,Developer and co-founder of Stack Overflow,"Tech Culture, Tech Business, Open Source Software, Web Development"
+19,drewdevault.com,32242.0,179.0,180.0,Drew DeVault,Developer and open-source advocate,
+20,ciechanow.ski,30956.0,23.0,1346.0,Bartosz Ciechanowski,Author of interactive articles,
+21,tbray.org,30300.0,204.0,149.0,Tim Bray,Technologist and writer,
+22,sive.rs,29822.0,176.0,169.0,Derek Sivers,Entrepreneur and author,"Tech Culture, Productivity and Tools"
+23,antirez.com,29180.0,152.0,192.0,Salvatore Sanfilippo,Creator of Redis,"AI and Machine Learning, Software Engineering, Databases, Tech Culture"
+24,jeffgeerling.com,27889.0,163.0,171.0,Jeff Geerling,Developer and YouTube creator,"Open Source Software, Hardware and Electronics, Web Development, Cybersecurity"
+25,fabiensanglard.net,26490.0,127.0,209.0,Fabien Sanglard,Software developer and author,"Gaming and Retro Computing, Hardware and Electronics, Computer Science, Performance Optimization"
+26,devblogs.microsoft.com/oldnewthing,25863.0,193.0,134.0,Raymond Chen,Veteran Microsoft engineer,"Software Engineering, Systems Programming, Operating Systems"
+27,jgc.org,25525.0,239.0,107.0,John Graham-Cumming,CTO of Cloudflare,
+28,daniel.haxx.se,24908.0,158.0,158.0,Daniel Stenberg,Creator of cURL,
+29,gwern.net,23592.0,189.0,125.0,Gwern Branwen,Researcher and writer,"AI and Machine Learning, Computer Science, Data Science, Open Source Software"
+30,steveblank.com,21287.0,208.0,102.0,Steve Blank,Entrepreneur and educator,
+31,lemire.me,20717.0,209.0,99.0,Daniel Lemire,Computer science professor,
+32,martinfowler.com,20605.0,154.0,134.0,Martin Fowler,Software development expert,"Software Engineering, Web Development, Tech Culture, AI and Machine Learning"
+33,johndcook.com,20514.0,214.0,96.0,John D. Cook,Consultant and mathematician,
+34,hanselman.com,20431.0,127.0,161.0,Scott Hanselman,Developer and speaker,"Software Engineering, Systems Programming"
+35,gatesnotes.com,18599.0,83.0,224.0,Bill Gates,Philanthropist and technologist,
+36,tonsky.me,18166.0,56.0,324.0,Nikita Prokopov,Developer and designer,"Software Engineering, Programming Languages, Web Development, Open Source Software"
+37,filfre.net,18102.0,139.0,130.0,Jimmy Maher,Writer and historian,"Gaming and Retro Computing, History of Technology, Tech Business"
+38,nullprogram.com,18076.0,136.0,133.0,Chris Wellons,Software developer,"Systems Programming, Web Development, Operating Systems"
+39,blog.plover.com,17815.0,107.0,166.0,Mark Dominus,Software developer and amateur mathematician,"Mathematics, Programming Languages, History of Technology, Computer Science"
+41,pluralistic.net,17629.0,129.0,137.0,Cory Doctorow,Author and activist,"Tech Policy, Big Tech, Privacy, Web Development, Tech Culture"
+43,idlewords.com,17157.0,79.0,217.0,Maciej Cegłowski,Developer and writer,"Tech Culture, History of Technology, Tech Policy"
+44,dynomight.net,17142.0,73.0,235.0,Anonymous,,"Other, Mathematics, Computer Science, Tech Culture"
+45,slatestarcodex.com,17128.0,105.0,163.0,Scott Alexander,Psychiatrist and blogger,Tech Culture
+46,brendangregg.com,16814.0,80.0,210.0,Brendan Gregg,Performance engineer,"Performance Optimization, Systems Programming, Operating Systems, DevOps"
+47,mjg59.dreamwidth.org,16589.0,107.0,155.0,Matthew Garrett,Security developer,"Cybersecurity, Privacy, Open Source Software, Tech Policy"
+48,mtlynch.io,16119.0,38.0,424.0,Michael Lynch,Indie founder and s'mores enthusiast,
+49,scottaaronson.com,15703.0,132.0,119.0,Scott Aaronson,Computer science professor,
+50,pragmaticengineer.com,15560.0,77.0,202.0,Gergely Orosz,Software engineer,
+51,daemonology.net,15454.0,111.0,139.0,Colin Percival,FreeBSD contributor and founder of Tarsnap,
+52,blog.cryptographyengineering.com,15447.0,82.0,188.0,Matthew Green,Cryptographer,"Cryptography, Cybersecurity, Tech Policy"
+53,justine.lol,15082.0,40.0,377.0,Justine Tunney,Software developer and creator of cosmopolitan libc,"Operating Systems, Systems Programming, Performance Optimization, Open Source Software"
+54,joelonsoftware.com,14717.0,136.0,108.0,Joel Spolsky,Software developer and entrepreneur,"Software Engineering, Web Development, Tech Business, Open Source Software"
+55,xeiaso.net,14622.0,91.0,161.0,Xe Iaso,Software developer,
+56,zachholman.com,14231.0,74.0,192.0,Zach Holman,Developer and speaker,"Startups, Venture Capital, Tech Business, Tech Culture"
+57,prog21.dadgum.com,14132.0,135.0,105.0,James Hague,Game designer and software developer,"Programming Languages, Software Engineering, Gaming and Retro Computing, Computer Science"
+58,neal.fun,14126.0,24.0,589.0,Neal Agarwal,Interactive web developer and designer,
+59,catonmat.net,13978.0,153.0,91.0,Peteris Krumins,Developer and entrepreneur,
+60,randomascii.wordpress.com,13910.0,76.0,183.0,Bruce Dawson,Software developer,"Software Engineering, Performance Optimization, Computer Science, Programming Languages"
+61,worrydream.com,13866.0,83.0,167.0,Bret Victor,Designer and engineer,"Computer Science, Visualization and Design, Tech Culture, History of Technology"
+62,lucumr.pocoo.org,13849.0,94.0,147.0,Armin Ronacher,Software developer and creator of Flask,"Software Engineering, Programming Languages, Open Source Software, Tech Business"
+63,bunniestudios.com,13796.0,75.0,184.0,"Andrew ""Bunnie"" Huang",Hacker and hardware developer,"Hardware and Electronics, Reverse engineering"
+64,hillelwayne.com,13224.0,77.0,172.0,Hillel Wayne,Consultant and author,"Software Engineering, Cybersecurity, DevOps, Gaming and Retro Computing, Computer Science"
+65,astralcodexten.com,13131.0,107.0,123.0,Scott Alexander,Psychiatrist and blogger,
+66,matt.might.net,13105.0,107.0,122.0,Matt Might,Computer science professor,
+67,apenwarr.ca,13086.0,78.0,168.0,Avery Pennarun,CEO of Tailscale,"Software Engineering, Tech Business, Productivity and Tools"
+68,acoup.blog,12821.0,105.0,122.0,Bret Devereaux,Historian,
+69,buttondown.com/hillelwayne,12683.0,79.0,161.0,Hillel Wayne,Consultant and author,
+70,eli.thegreenplace.net,12572.0,137.0,92.0,Eli Bendersky,Software developer,"AI and Machine Learning, Computer Science, Programming Languages"
+73,asmartbear.com,12409.0,113.0,110.0,Jason Cohen,Founder of WPEngine and Smart Bear,
+74,blog.regehr.org,12241.0,117.0,105.0,John Regehr,Computer science professor,
+75,austinhenley.com,12229.0,57.0,215.0,Austin Henley,Software developer and researcher,"AI and Machine Learning, Software Engineering, Programming Languages, Web Development, Productivity and Tools"
+76,stephendiehl.com,12103.0,66.0,183.0,Stephen Diehl,Software developer and Haskell enthusiast,
+77,robertheaton.com,12002.0,43.0,279.0,Robert Heaton,Software developer,"Software Engineering, Web Development, Open Source Software, Gaming and Retro Computing"
+78,jwz.org,11768.0,79.0,149.0,Jamie Zawinski,Software developer and early Netscape engineer,
+79,marginalia.nu,11659.0,37.0,315.0,Viktor Lofgren,Founder of Marginalia search engine,
+80,lapcatsoftware.com,11398.0,56.0,204.0,Jeff Johnson,Apple software developer,"Software Engineering, Web Development, Tech Policy, Cybersecurity, Privacy"
+81,filippo.io,11226.0,59.0,190.0,Filippo Valsorda,Security engineer and cryptographer,"Cryptography, Systems Programming, Open Source Software, Software Engineering"
+82,robert.ocallahan.org,11023.0,52.0,212.0,Robert O'Callahan,Software developer,Other
+83,bellard.org,10935.0,45.0,243.0,Fabrice Bellard,Software prodigy and creator of FFmpeg and QEMU,
+84,berthub.eu,10932.0,46.0,238.0,Bert Hubert,Software developer and entrepreneur,"Cloud Computing, Tech Business, Tech Policy, Web Development"
+85,evanmiller.org,10912.0,60.0,182.0,Evan Miller,Software developer and statistician,
+86,yosefk.com,10910.0,95.0,115.0,Yosef Mendelsohn,Software engineer and blogger,"Tech Culture, Software Engineering, Productivity and Tools"
+87,blog.benjojo.co.uk,10797.0,55.0,196.0,Ben Cox,Software engineer and infrastructure expert,"Networking, Systems Programming, Operating Systems"
+88,fasterthanli.me,10760.0,48.0,224.0,Amos Wenger,Rust enthusiast and YouTube creator,
+89,backreaction.blogspot.com,10760.0,73.0,147.0,Sabine Hossenfelder,Theoretical physicist,"Tech Culture, Tech Policy"
+90,blog.fogus.me,10744.0,96.0,112.0,Michael Fogus,Software developer and author,"Software Engineering, Web Development, Open Source Software, Productivity and Tools"
+91,ctrl.blog,10730.0,53.0,202.0,Daniel Aleksandersen,Developer,"Tech Culture, Privacy, Tech Policy, Big Tech"
+92,brandur.org,10717.0,65.0,165.0,Brandur Leach,Software engineer and writer,"Web Development, Software Engineering, Programming Languages, DevOps"
+93,aphyr.com,10608.0,56.0,189.0,Kyle Kingsbury,Distributed systems engineer and researcher,"Systems Programming, Web Development, Networking, Tech Policy, Performance Optimization"
+94,research.swtch.com,10491.0,74.0,142.0,Russ Cox,Principal engineer at Google,"Cybersecurity, Open Source Software, Systems Programming, Software Engineering"
+95,mattstoller.substack.com,10488.0,57.0,184.0,Matt Stoller,Author and antitrust policy expert,
+96,matklad.github.io,10340.0,59.0,175.0,Alex Kladov,Software developer and Rust contributor,"Programming Languages, Systems Programming, Computer Science"
+97,calnewport.com,10334.0,79.0,131.0,Cal Newport,Computer science professor and author,"Productivity and Tools, Tech Culture"
+98,norvig.com,10297.0,99.0,104.0,Peter Norvig,Director of Research at Google and AI expert,"Computer Science, Programming Languages, AI and Machine Learning"
+99,joshwcomeau.com,10270.0,56.0,183.0,Josh W. Comeau,Software developer and educator,"Web Development, Software Engineering, AI and Machine Learning, Tech Culture"
+100,tedium.co,10218.0,76.0,134.0,Ernie Smith,Writer and editor,
+101,aaronsw.com,10090.0,94.0,107.0,Aaron Swartz,Internet activist and programmer,
+103,dcurt.is,9962.0,59.0,169.0,Dustin Curtis,"Designer, writer, and entrepreneur","Tech Business, Tech Culture, Big Tech, Tech Policy"
+105,cdixon.org,9665.0,140.0,69.0,Chris Dixon,Investor and general partner at Andreessen Horowitz,
+106,minimaxir.com,9653.0,63.0,153.0,Max Woolf,Data scientist and software developer,"AI and Machine Learning, Software Engineering, Web Development, Data Science"
+107,jefftk.com,9639.0,74.0,130.0,Jeff Kaufman,Software engineer and effective altruist,"Tech Culture, AI and Machine Learning, Other"
+108,chris-granger.com,9559.0,28.0,341.0,Chris Granger,Software developer and co-creator of Light Table,"Programming Languages, Software Engineering, Databases, Computer Science"
+109,writings.stephenwolfram.com,9553.0,60.0,159.0,Stephen Wolfram,Computer scientist and entrepreneur,
+110,jsomers.net,9537.0,34.0,281.0,James Somers,Writer and programmer,
+111,blog.pinboard.in,9536.0,34.0,280.0,Maciej Cegłowski,Founder of Pinboard and writer,"Web Development, Tech Business, Productivity and Tools"
+112,lcamtuf.substack.com,9496.0,51.0,186.0,Michał Zalewski,Security researcher and author,"Hardware and Electronics, Computer Science"
+113,betterexplained.com,9449.0,53.0,178.0,Kalid Azad,Author and educator,Mathematics
+114,dave.cheney.net,9365.0,62.0,151.0,Dave Cheney,Software developer and Go programming expert,"Software Engineering, Programming Languages, Performance Optimization, Open Source Software"
+115,jlongster.com,9261.0,53.0,175.0,James Long,Software developer and creator of Actual,"Web Development, Software Engineering, Tech Business, Programming Languages"
+116,ben-evans.com,9123.0,81.0,113.0,Benedict Evans,Technology analyst and consultant,
+117,blog.jim-nielsen.com,9121.0,28.0,326.0,Jim Nielsen,Web developer and designer,
+118,kk.org,8842.0,79.0,112.0,Kevin Kelly,Author and founding executive editor of Wired,
+119,stallman.org,8802.0,55.0,160.0,Richard Stallman,Founder of the Free Software Foundation,"Tech Policy, Open Source Software, Tech Culture, Privacy"
+120,computer.rip,8744.0,53.0,165.0,J.B. Crawford,DevOps consultant and writer,"History of Technology, Networking, Computer Science"
+121,ejohn.org,8720.0,72.0,121.0,John Resig,Creator of jQuery and software developer,
+122,ascii.textfiles.com,8661.0,45.0,192.0,Jason Scott,Archivist and historian,"History of Technology, Gaming and Retro Computing, Tech Culture, Computer Science"
+123,craigkerstiens.com,8633.0,56.0,154.0,Craig Kerstiens,Product manager and PostgreSQL advocate,
+124,words.steveklabnik.com,8603.0,41.0,210.0,Steve Klabnik,Software developer and Rust enthusiast,
+125,jacobian.org,8508.0,48.0,177.0,Jacob Kaplan-Moss,Co-creator of Django and software developer,
+126,blog.stephenwolfram.com,8477.0,49.0,173.0,Stephen Wolfram,Computer scientist and entrepreneur,
+127,qntm.org,8310.0,52.0,160.0,Sam Hughes,Writer and software developer,
+128,paulbuchheit.blogspot.com,8258.0,62.0,133.0,Paul Buchheit,Creator of Gmail and startup investor,"Startups, Tech Business, Tech Culture"
+129,benkuhn.net,8253.0,42.0,197.0,Ben Kuhn,Software developer and effective altruist,"Productivity and Tools, Software Engineering, Tech Business"
+130,raphlinus.github.io,8144.0,47.0,173.0,Raph Levien,Software developer and font designer,"Computer Science, Visualization and Design, Software Engineering, Mathematics"
+131,scripting.com,7977.0,106.0,75.0,Dave Winer,Software developer and blogging pioneer,
+132,acko.net,7913.0,43.0,184.0,Steven Wittens,Web developer and designer,"Software Engineering, Web Development, Computer Science, Tech Culture"
+133,oimo.io,7830.0,9.0,870.0,saharan,,
+134,lcamtuf.coredump.cx,7754.0,33.0,235.0,Michał Zalewski,Security researcher and author,
+135,ferd.ca,7701.0,42.0,183.0,Ferdinand Beyer,Software developer,"AI and Machine Learning, Tech Culture, DevOps, Software Engineering"
+136,rosenzweig.io,7620.0,17.0,448.0,Alyssa Rosenzweig,Software developer and open-source advocate,"Open Source Software, Gaming and Retro Computing, Computer Science, Operating Systems"
+137,terrytao.wordpress.com,7613.0,68.0,112.0,Terence Tao,Mathematician and professor,
+138,benhoyt.com,7554.0,40.0,189.0,Ben Hoyt,Software developer,
+139,wingolog.org,7547.0,82.0,92.0,Andy Wingo,Software developer and GNU Guile maintainer,"Systems Programming, Operating Systems, Performance Optimization"
+141,beej.us,7463.0,29.0,257.0,"Brian ""Beej"" Hall",Software developer and educator,
+142,journal.stuffwithstuff.com,7458.0,48.0,155.0,Bob Nystrom,Software developer and author,"Programming Languages, Software Engineering, Computer Science, Gaming and Retro Computing"
+143,ribbonfarm.com,7425.0,57.0,130.0,Venkatesh Rao,Writer and consultant,
+145,cringely.com,7255.0,92.0,79.0,Robert X. Cringely,Technology journalist and author,"AI and Machine Learning, Tech Business, Tech Culture, Computer Science"
+146,scottaaronson.blog,7238.0,44.0,165.0,Scott Aaronson,Computer scientist and professor,
+147,karpathy.github.io,7207.0,27.0,267.0,Andrej Karpathy,AI researcher and educator,"AI and Machine Learning, Computer Science, Open Source Software, Cryptography"
+149,solipsys.co.uk,7171.0,86.0,83.0,Colin Wright,,
+150,jessfraz.com,7145.0,31.0,230.0,Jessie Frazelle,Docker developer and co-founder of Oxide,"Hardware and Electronics, AI and Machine Learning, Tech Business, Software Engineering"
+151,randsinrepose.com,7131.0,74.0,96.0,Michael Lopp,Engineering manager and author,"Tech Culture, Productivity and Tools, Tech Business"
+152,bothsidesofthetable.com,7074.0,102.0,69.0,Mark Suster,Entrepreneur and venture capitalist,"Venture Capital, Startups, Tech Business, Finance and FinTech"
+153,muratbuffalo.blogspot.com,7058.0,62.0,114.0,Murat Demirbas,Computer science professor,"Computer Science, Programming Languages, Cybersecurity, Systems Programming"
+154,eev.ee,7051.0,33.0,214.0,Evelyn Woods,Software developer and writer,
+155,overreacted.io,7049.0,22.0,320.0,Dan Abramov,Software developer and React core team member,"Web Development, Software Engineering, Computer Science, Programming Languages"
+156,jeremykun.com,7016.0,50.0,140.0,Jeremy Kun,Mathematician and writer,
+157,blog.robertelder.org,7002.0,44.0,159.0,Robert Elder,Software developer and educator,
+158,tratt.net,6961.0,67.0,104.0,Nicholas Tratt,Computer scientist and researcher,
+159,oldvcr.blogspot.com,6948.0,75.0,93.0,Cameron Kaiser,Vintage computer enthusiast,"Gaming and Retro Computing, History of Technology, Operating Systems, Systems Programming"
+160,phoboslab.org,6919.0,33.0,210.0,Dominic Szablewski,Game developer and software engineer,
+161,waxy.org,6898.0,29.0,238.0,Andy Baio,Writer and technologist,"History of Technology, Gaming and Retro Computing"
+162,folklore.org,6894.0,45.0,153.0,Andy Hertzfeld,Software developer and original Macintosh team member,
+163,ncase.me,6876.0,30.0,229.0,Nicky Case,Interactive artist and game developer,"AI and Machine Learning, Computer Science, Visualization and Design, Mathematics"
+164,devever.net/~hl,6808.0,45.0,151.0,Hugo Landau,Software developer and open-source advocate,"Cybersecurity, Reverse engineering, Networking, Operating Systems"
+165,stackdiary.com,6795.0,26.0,261.0,Alex Ivanovs,,"Cybersecurity, Tech Business, Software Engineering, Privacy"
+166,scattered-thoughts.net,6786.0,51.0,133.0,Max Bittker,Software developer and artist,
+167,jepsen.io,6721.0,30.0,224.0,Kyle Kingsbury,Distributed systems engineer and researcher,
+168,stavros.io,6715.0,38.0,177.0,Stavros Korokithakis,Software developer and entrepreneur,
+169,dilbert.com,6715.0,82.0,82.0,Scott Adams,Cartoonist and writer,
+171,zwischenzugs.com,6686.0,35.0,191.0,Anonymous,,"Software Engineering, DevOps, Productivity and Tools, Open Source Software"
+172,bhorowitz.com,6679.0,60.0,111.0,Ben Horowitz,Entrepreneur and venture capitalist,
+173,raptitude.com,6634.0,26.0,255.0,David Cain,Blogger and author,
+174,seths.blog,6620.0,88.0,75.0,Seth Godin,Author and marketer,"Tech Business, Productivity and Tools, AI and Machine Learning"
+175,calpaterson.com,6604.0,24.0,275.0,Cal Paterson,Software developer and writer,
+176,bitsaboutmoney.com,6571.0,23.0,286.0,Patrick McKenzie,Developer and consultant,"Finance and FinTech, Tech Business, Tech Policy"
+177,stevelosh.com,6517.0,51.0,128.0,Steve Losh,Software developer,"Programming Languages, Open Source Software, Software Engineering, Computer Science"
+178,destroyallsoftware.com,6508.0,26.0,250.0,Gary Bernhardt,Software developer and educator,
+179,blog.rongarret.info,6500.0,37.0,176.0,Ron Garret,Software developer and entrepreneur,"Tech Culture, Tech Business, Startups, History of Technology, AI and Machine Learning, Venture Capital, Tech Policy"
+180,ianvisits.co.uk,6440.0,51.0,126.0,Ian Mansfield,Blogger and historian,Other
+181,thume.ca,6420.0,27.0,238.0,Thume,Software developer,
+182,johncarlosbaez.wordpress.com,6367.0,56.0,114.0,John Carlos Baez,Mathematician and physicist,"Mathematics, Computer Science, Open Source Software"
+183,practical.engineering,6343.0,22.0,288.0,Grady Hillhouse,Civil engineer and educator,
+185,jeffhuang.com,6281.0,24.0,262.0,Jeff Huang,Computer science professor,"Productivity and Tools, Computer Science, Tech Culture"
+186,downtowndougbrown.com,6253.0,27.0,232.0,Doug Brown,Writer and urban planner,"Gaming and Retro Computing, Reverse engineering, History of Technology, Computer Science"
+188,josephg.com,6206.0,19.0,327.0,Joseph Gentle,Software developer and researcher,
+189,steve-yegge.blogspot.com,6188.0,59.0,105.0,Steve Yegge,Software developer and writer,"Software Engineering, Web Development, Cloud Computing, Gaming and Retro Computing"
+190,dmitry.gr,6158.0,32.0,192.0,Dmitry Grinberg,Hardware and software hacker,"Hardware and Electronics, Reverse engineering, Operating Systems, Open Source Software"
+191,paulstamatiou.com,6151.0,60.0,103.0,Paul Stamatiou,Designer and photographer,"AI and Machine Learning, Web Development, Visualization and Design, Startups"
+192,patrickcollison.com,6144.0,16.0,384.0,Patrick Collison,CEO of Stripe,
+193,joeyh.name,6142.0,44.0,140.0,Joey Hess,Software developer and Debian contributor,
+194,erikbern.com,6137.0,26.0,236.0,Erik Bernhardsson,Software developer and entrepreneur,"Software Engineering, Tech Business, Productivity and Tools, Computer Science"
+195,begriffs.com,6127.0,39.0,157.0,Tom Dale,Software developer and technical writer,"Systems Programming, Software Engineering, Programming Languages, Open Source Software, DevOps, Productivity and Tools, Computer Science"
+196,brooker.co.za,6117.0,52.0,118.0,Chris Brooker,Software developer and blogger,
+197,redblobgames.com,6116.0,25.0,245.0,Amit Patel,Game developer and blogger,"Web Development, Gaming and Retro Computing, Computer Science, Visualization and Design"
+198,complete.org,6090.0,42.0,145.0,John Goerzen,Programmer and manager,"Cryptography, Open Source Software, Productivity and Tools, Systems Programming"
+199,imperialviolet.org,6076.0,57.0,107.0,Adam Langley,Software engineer at Google,"Cybersecurity, Cryptography, Web Development, Privacy"
+200,overcomingbias.com,6025.0,78.0,77.0,Robin Hanson,Economist and author,"Tech Culture, Computer Science, Other"
+201,eatonphil.com,6008.0,49.0,123.0,Phil Eaton,Software developer and writer,
+202,popehat.com,5985.0,46.0,130.0,Ken White,Attorney and blogger,
+203,ntietz.com,5979.0,41.0,146.0,Nicole Tietz-Sokolskaya,,"Software Engineering, Programming Languages, Tech Culture, Other"
+204,lethain.com,5970.0,53.0,113.0,Will Larson,Software engineer and author,"Software Engineering, Tech Business, Data Science, AI and Machine Learning"
+205,thebignewsletter.com,5934.0,36.0,165.0,Matt Stoller,Antitrust advocate and author,
+206,al3x.net,5923.0,44.0,135.0,Alex Payne,Software developer and writer,
+207,timharford.com,5913.0,42.0,141.0,Tim Harford,Economist and author,
+208,awesomekling.github.io,5910.0,12.0,493.0,Andreas Kling,Software developer and creator of SerenityOS,"Software Engineering, Systems Programming, Operating Systems, Tech Culture"
+209,incoherency.co.uk,5903.0,34.0,174.0,James Stanley,Software developer and blogger,"Software Engineering, Visualization and Design, Mathematics, Computer Science"
+210,mitxela.com,5857.0,15.0,390.0,Anonymous,Electronics enthusiast and maker,"Hardware and Electronics, Software Engineering, Open Source Software, Visualization and Design"
+211,datagubbe.se,5855.0,39.0,150.0,Carl Svensson,Software developer and writer,
+212,linusakesson.net,5839.0,44.0,133.0,Linus Åkesson,Software developer and chiptune musician,"Gaming and Retro Computing, Hardware and Electronics, Systems Programming, Software Engineering"
+213,blog.haschek.at,5792.0,17.0,341.0,Florian Haschek,Software developer and security researcher,"Cybersecurity, Systems Programming, DevOps, Open Source Software"
+214,uncrunched.com,5790.0,44.0,132.0,Michael Arrington,Founder of TechCrunch and entrepreneur,
+215,unixdigest.com,5744.0,34.0,169.0,Anonymous,Software developer and Unix enthusiast,
+216,lock.cmpxchg8b.com,5722.0,16.0,358.0,Tavis Ormandy,Vulnerability researcher at Google Project Zero,
+217,sheddingbikes.com,5716.0,51.0,112.0,Tom MacWright,Software developer and writer,"Tech Culture, Cybersecurity, Software Engineering, Open Source Software"
+218,ludic.mataroa.blog,5704.0,22.0,259.0,Nikhil Suresh,Developer and podcaster,"Software Engineering, Tech Business, Startups, Tech Culture"
+219,httptoolkit.com,5697.0,22.0,259.0,Tim Perry,Author of HTTP Toolkit,"Web Development, Software Engineering, DevOps, Networking"
+221,madned.substack.com,5657.0,18.0,314.0,Ned Utzig,Developer and gamer,"Hardware and Electronics, Computer Science, Gaming and Retro Computing, Software Engineering"
+222,twobithistory.org,5654.0,32.0,177.0,Matt Farrell,Software developer and historian,"History of Technology, Computer Science, Networking, Web Development"
+223,nibblestew.blogspot.com,5643.0,36.0,157.0,Martin Cracauer,Software developer and blogger,"Software Engineering, Systems Programming, Performance Optimization, Open Source Software"
+224,brr.fyi,5605.0,19.0,295.0,Paul Coldren,Researcher in Antarctica,"Tech Culture, Software Engineering, Systems Programming, Other"
+225,copetti.org,5600.0,26.0,215.0,Fabio Copetti,Software developer and emulator enthusiast,
+226,susanjfowler.com,5579.0,8.0,697.0,Susan Fowler,Author and engineer,
+227,tech.marksblogg.com,5575.0,40.0,139.0,Mark Litwintschik,Developer and data engineer,"Data Science, AI and Machine Learning, Cloud Computing, Visualization and Design"
+228,craftinginterpreters.com,5575.0,29.0,192.0,Bob Nystrom,Software developer and author,
+229,allthingsdistributed.com,5563.0,46.0,121.0,Werner Vogels,CTO of Amazon,"Cloud Computing, Software Engineering, AI and Machine Learning, Tech Culture"
+230,scottlocklin.wordpress.com,5554.0,49.0,113.0,Scott Locklin,Physicist and data scientist,"History of Technology, Tech Culture, Tech Business"
+231,martin.kleppmann.com,5533.0,32.0,173.0,Martin Kleppmann,Software developer and author,"Computer Science, Cybersecurity, Systems Programming, Cryptography"
+232,hackerfactor.com,5525.0,29.0,191.0,Mark Seiden,Security consultant and researcher,
+233,mattkeeter.com,5523.0,24.0,230.0,Matt Keeter,Software developer and researcher,"Software Engineering, Open Source Software, Computer Science, Programming Languages, Performance Optimization"
+234,matduggan.com,5521.0,26.0,212.0,Mat Duggan,Writer and blogger,
+235,samcurry.net,5519.0,8.0,690.0,Sam Curry,Security researcher,
+236,patrick-breyer.de,5514.0,23.0,240.0,Patrick Breyer,Privacy activist and politician,"Tech Policy, Privacy, Cybersecurity, Tech Culture"
+237,arp242.net,5509.0,28.0,197.0,Martin Tournoij,Software developer and blogger,
+238,eugeneyan.com,5487.0,26.0,211.0,Eugen Yan,Data scientist and writer,
+239,probablydance.com,5462.0,27.0,202.0,Anders Hejlsberg,Software developer and creator of TypeScript,
+240,rubenerd.com,5434.0,33.0,165.0,Ruben Schade,Writer and podcaster,Other
+241,blog.eladgil.com,5416.0,67.0,81.0,Elad Gil,Entrepreneur and investor,"AI and Machine Learning, Startups, Tech Business"
+242,zedshaw.com,5405.0,66.0,82.0,Zed Shaw,Software developer and author,
+243,danielmiessler.com,5391.0,45.0,120.0,Daniel Miessler,Security researcher and writer,"AI and Machine Learning, Tech Culture, Software Engineering, Computer Science"
+244,tirania.org,5382.0,50.0,108.0,Miguel de Icaza,Software developer and open source advocate,
+245,graydon2.dreamwidth.org,5379.0,19.0,283.0,Graydon Hoare,Software developer and creator of Rust,"Programming Languages, History of Technology, Operating Systems, Computer Science"
+246,homakov.blogspot.com,5366.0,31.0,173.0,Egor Homakov,Security researcher and software developer,"Cybersecurity, Web Development, Programming Languages"
+247,andrewkelley.me,5345.0,24.0,223.0,Andrew Kelley,Software developer and creator of Zig,
+248,blog.dustinkirkland.com,5326.0,19.0,280.0,Dustin Kirkland,Software engineer and product manager,Tech Culture
+249,250bpm.com,5281.0,43.0,123.0,Martin Sústrik,Software developer and author,"Tech Culture, History of Technology, Other"
+250,tinyprojects.dev,5267.0,9.0,585.0,Niklas Elmqvist,Software developer and professor,"Web Development, Software Engineering, Open Source Software, Productivity and Tools"
+251,craigmurray.org.uk,5247.0,33.0,159.0,Craig Murray,Former diplomat and human rights activist,"Tech Policy, Finance and FinTech, Other"
+252,eieio.games,5219.0,12.0,435.0,Nolen Royalty,HTML artist,"Gaming and Retro Computing, Software Engineering, Tech Culture, Other"
+253,nicole.express,5192.0,54.0,96.0,Nicole Caroline Branagan,Software developer and retro computing enthusiast,"Gaming and Retro Computing, Hardware and Electronics, History of Technology"
+254,staltz.com,5157.0,21.0,246.0,Andre Staltz,Software developer and creator of Cycle.js,"Tech Culture, Web Development, Software Engineering, Tech Business"
+255,rjlipton.wordpress.com,5155.0,82.0,63.0,Richard Lipton,Computer scientist and professor,
+256,mattwarren.org,5153.0,41.0,126.0,Matt Warren,Software developer and performance enthusiast,
+257,alexkras.com,5148.0,22.0,234.0,Alex Kras,Software developer and blogger,
+258,kurzweilai.net,5146.0,75.0,69.0,Ray Kurzweil,Inventor and futurist,
+259,justinobeirne.com,5137.0,12.0,428.0,Justin O'Beirne,Cartographer and designer,
+260,noahpinion.substack.com,5129.0,52.0,99.0,Noah Smith,Economist and blogger,
+261,mattcutts.com,5115.0,40.0,128.0,Matt Cutts,Software engineer and former head of Google Webspam,
+262,underjord.io,5096.0,29.0,176.0,Marcus Olsson,Software developer and writer,
+263,nedbatchelder.com,5088.0,45.0,113.0,Ned Batchelder,Software developer and Python enthusiast,
+264,robinsloan.com,5058.0,25.0,202.0,Robin Sloan,Author and media inventor,"Tech Culture, AI and Machine Learning, Tech Business, Open Source Software"
+265,taylor.town,5038.0,37.0,136.0,Taylor Otwell,Creator of Laravel,
+266,lunduke.substack.com,5017.0,32.0,157.0,Bryan Lunduke,Software developer and Linux enthusiast,
+267,garymarcus.substack.com,5009.0,48.0,104.0,Gary Marcus,"Cognitive scientist, author, and entrepreneur","AI and Machine Learning, Tech Culture, Big Tech"
+270,falkvinge.net,4992.0,48.0,104.0,Rick Falkvinge,Founder of the Pirate Party,
+271,perell.com,4979.0,30.0,166.0,David Perell,Writer and educator,"Tech Culture, History of Technology, Other"
+272,bryanbraun.com,4974.0,14.0,355.0,Bryan Braun,Software developer,"Software Engineering, Web Development, Open Source Software, Tech Culture"
+273,mjtsai.com,4961.0,31.0,160.0,Michael Tsai,Software developer and blogger,"Tech Culture, Big Tech, Software Engineering, Tech Business"
+274,intuitiveexplanations.com,4949.0,7.0,707.0,Radon Rosborough,Software developer,"Programming Languages, Open Source Software, Reverse engineering, Web Development, Software Engineering, Cybersecurity"
+275,tedgioia.substack.com,4905.0,35.0,140.0,Ted Gioia,Music historian and author,"Tech Culture, Tech Business, AI and Machine Learning, Other"
+276,blog.nelhage.com,4898.0,35.0,140.0,,,"Software Engineering, AI and Machine Learning, Performance Optimization, Programming Languages"
+277,abortretry.fail,4890.0,38.0,129.0,Bradford Morgan White,,"Hardware and Electronics, History of Technology, Tech Business, Computer Science"
+278,palant.info,4870.0,25.0,195.0,Wladimir Palant,Software developer and creator of Adblock Plus,"Cybersecurity, Privacy, Web Development, Open Source Software"
+279,cfenollosa.com,4846.0,16.0,303.0,Carlos Fenollosa,Software developer and entrepreneur,
+280,chrisstucchio.com,4832.0,31.0,156.0,Chris Stucchio,Software developer and data scientist,"Data Science, Finance and FinTech, AI and Machine Learning"
+281,penny-arcade.com,4816.0,29.0,166.0,Michael Krahulik and Jerry Holkins,Authors and illustrators,
+283,deepsouthventures.com,4809.0,8.0,601.0,Peter Askew,Domain name enthusiast,"Tech Culture, Other"
+284,thecodist.com,4803.0,30.0,160.0,Greg Brown,Software developer and writer,"Software Engineering, Tech Policy, Cybersecurity, Programming Languages"
+285,greenwald.substack.com,4799.0,30.0,160.0,Glenn Greenwald,Journalist and author,
+286,susam.net,4798.0,50.0,96.0,Susam Pal,Software engineer and writer,"Web Development, Programming Languages, Tech Culture, Computer Science"
+287,antonz.org,4798.0,25.0,192.0,Anton Zhiyanov,Software developer and blogger,"Software Engineering, Programming Languages, DevOps, AI and Machine Learning"
+288,moxie.org,4794.0,11.0,436.0,Moxie Marlinspike,Founder of Signal,"Software Engineering, Web Development, Tech Culture"
+290,scotthelme.co.uk,4775.0,26.0,184.0,Scott Helme,Security researcher and blogger,
+291,matt-rickard.com,4759.0,40.0,119.0,Matt Rickard,Software developer and entrepreneur,"History of Technology, Tech Business, AI and Machine Learning, Open Source Software"
+292,alexanderell.is,4727.0,20.0,236.0,Alexander Ellis,Software developer and blogger,"Data Science, Visualization and Design, Software Engineering, Tech Culture"
+293,quirksmode.org,4711.0,34.0,139.0,Peter-Paul Koch,Web developer and author,
+294,blog.alexmaccaw.com,4709.0,31.0,152.0,Alex MacCaw,Software developer and entrepreneur,"Tech Culture, AI and Machine Learning, Tech Business"
+295,blog.nuclearsecrecy.com,4688.0,37.0,127.0,Alex Wellerstein,Historian of science,"History of Technology, Tech Culture, Tech Policy"
+296,thechipletter.substack.com,4686.0,47.0,100.0,Anonymous,Anonymous tech enthusiast,
+297,caseyhandmer.wordpress.com,4665.0,33.0,141.0,Casey Handmer,Physicist and space enthusiast,"Tech Policy, Startups, Tech Business, Venture Capital"
+298,corecursive.com,4665.0,27.0,173.0,Adam Gordon Bell,Software developer and podcast host,
+300,phrack.org,4649.0,26.0,179.0,,,
+301,blogmaverick.com,4647.0,65.0,71.0,Mark Cuban,Entrepreneur and investor,"Tech Business, Finance and FinTech, Startups, Tech Policy"
+303,paulbutler.org,4618.0,12.0,385.0,Paul Butler,Software engineer and data visualizer,"Cryptography, Software Engineering, Mathematics, Programming Languages"
+304,nolanlawson.com,4603.0,30.0,153.0,Nolan Lawson,Web developer and open-source contributor,
+305,idiallo.com,4602.0,13.0,354.0,Idris Diallo,Software developer and blogger,"Web Development, Software Engineering, Tech Business, Startups"
+306,gkogan.co,4589.0,22.0,209.0,,,"Tech Business, Startups, Data Science, AI and Machine Learning"
+307,raganwald.com,4588.0,36.0,127.0,Reginald Braithwaite,Software developer and author,"Cryptography, Programming Languages, History of Technology, Computer Science"
+308,jakearchibald.com,4584.0,32.0,143.0,Jake Archibald,Developer advocate at Google,"Web Development, Performance Optimization, Visualization and Design"
+309,nee.lv,4574.0,3.0,1525.0,Andris Reinman,Software developer and blogger,
+310,viewfromthewing.com,4557.0,27.0,169.0,Gary Leff,Travel expert and writer,"Finance and FinTech, Tech Business, Tech Policy"
+311,datagenetics.com,4554.0,36.0,127.0,Nick Berry,Data scientist and blogger,
+312,jakeseliger.com,4549.0,23.0,198.0,Jake Seliger,Writer and researcher,
+313,igvita.com,4540.0,57.0,80.0,Ilya Grigorik,Software developer and performance engineer,"Tech Business, Productivity and Tools, Tech Culture"
+314,humbledmba.com,4532.0,39.0,116.0,Jason Freedman,Founder of 42Floors and partner at Peak State Ventures,"Venture Capital, Startups"
+316,dkb.io,4508.0,3.0,1503.0,Derek Banas,Software developer and educator,
+318,feld.com,4493.0,57.0,79.0,Brad Feld,Entrepreneur and venture capitalist,"Tech Business, Venture Capital, Startups, Tech Culture"
+319,fgiesen.wordpress.com,4486.0,51.0,88.0,Fabian Giesen,Software engineer,"Hardware and Electronics, Performance Optimization, Computer Science, Mathematics"
+320,wheresyoured.at,4484.0,29.0,155.0,Ed Zitron,CEO of EZPR,"AI and Machine Learning, Tech Business, Venture Capital, Cloud Computing"
+321,joearms.github.io,4479.0,30.0,149.0,Joe Armstrong,Co-creator of Erlang,
+322,neugierig.org,4469.0,31.0,144.0,Mike West,Web standards advocate,
+323,blog.wesleyac.com,4454.0,16.0,278.0,Wesley Aptekar-Cassels,Software developer and blogger,"Web Development, Cybersecurity, Cryptography, Tech Policy"
+324,ma.tt,4449.0,30.0,148.0,Matt Mullenweg,Co-founder of WordPress,
+325,unchartedterritories.tomaspueyo.com,4449.0,15.0,297.0,Tomas Pueyo,Author and public speaker,
+327,chriskiehl.com,4443.0,11.0,404.0,Chris Kiehl,Software engineer,"Software Engineering, Programming Languages, Computer Science"
+328,brainpickings.org,4436.0,48.0,92.0,Maria Popova,Writer and blogger,"Tech Culture, Other"
+329,daedtech.com,4423.0,23.0,192.0,Erik Dietrich,Software developer and consultant,
+330,flowingdata.com,4419.0,41.0,108.0,Nathan Yau,Statistician and data visualization expert,"Data Science, Visualization and Design"
+331,taibbi.substack.com,4416.0,39.0,113.0,Matt Taibbi,Journalist and author,
+332,ianbicking.org,4373.0,14.0,312.0,Ian Bicking,Software developer and open source advocate,
+333,stitcher.io,4366.0,19.0,230.0,Brent Roose,Software developer and writer,
+334,thehftguy.com,4360.0,25.0,174.0,Anonymous,,
+335,os.phil-opp.com,4355.0,21.0,207.0,Philipp Oppermann,OS developer,"Operating Systems, Systems Programming, Programming Languages, Computer Science"
+336,tim.blog,4349.0,53.0,82.0,Tim Ferriss,Author and entrepreneur,"Tech Business, Productivity and Tools, Tech Culture, Computer Science"
+337,ma.ttias.be,4335.0,37.0,117.0,Mattias Geniar,System administrator and developer,
+338,walzr.com,4325.0,3.0,1442.0,Riley Walz,Blogger and digital performance artist,
+339,bradfrost.com,4322.0,14.0,309.0,Brad Frost,Web designer and author,"Web Development, Visualization and Design, Software Engineering"
+340,thorstenball.com,4295.0,26.0,165.0,Thorsten Ball,Software developer and author,
+341,macwright.com,4277.0,23.0,186.0,Tom MacWright,Software developer and writer,"Web Development, Software Engineering, Productivity and Tools, Open Source Software"
+342,agner.org,4276.0,30.0,143.0,Agner Fog,Software developer and researcher,
+343,yehudakatz.com,4271.0,44.0,97.0,Yehuda Katz,JavaScript developer and open-source contributor,
+344,blog.chriszacharias.com,4266.0,8.0,533.0,Chris Zacharias,Web developer and former YouTube engineer,"Web Development, Tech Culture, History of Technology, Big Tech"
+345,blog.yossarian.net,4252.0,31.0,137.0,,,
+346,wordsandbuttons.online,4247.0,28.0,152.0,Sergei Tikhomirov,Software developer and writer,
+347,openmymind.net,4238.0,36.0,118.0,,,"Programming Languages, Systems Programming"
+348,krausefx.com,4202.0,6.0,700.0,Felix Krause,Creator of fastlane,
+349,masteringemacs.org,4197.0,30.0,140.0,Mickey Petersen,Emacs enthusiast and writer,"Software Engineering, Productivity and Tools, Open Source Software, Computer Science"
+350,lcamtuf.blogspot.com,4194.0,33.0,127.0,Michał Zalewski,Security researcher and author,"Cybersecurity, Reverse engineering, Open Source Software"
+351,bcantrill.dtrace.org,4176.0,25.0,167.0,,,"Systems Programming, Open Source Software, Tech Culture, Computer Science, History of Technology"
+352,hintjens.com,4168.0,15.0,278.0,Pieter Hintjens,Co-founder of ZeroMQ and free software activist,Other
+353,bernsteinbear.com,4165.0,36.0,116.0,Max Bernstein,,"Programming Languages, Software Engineering, Systems Programming, Open Source Software"
+354,seangoedecke.com,4164.0,23.0,181.0,Sean Goedecke,Writer and software developer,
+355,michael.stapelberg.ch,4154.0,23.0,181.0,Michael Stapelberg,Software developer,
+356,raymii.org,4150.0,34.0,122.0,Remy van Elst,System administrator and writer,
+357,abe-winter.github.io,4148.0,25.0,166.0,Abe Winter,Software engineer and writer,"AI and Machine Learning, Tech Business, Tech Policy, Startups"
+358,arslan.io,4135.0,14.0,295.0,,,
+359,tylercipriani.com,4126.0,22.0,188.0,Tyler Cipriani,Developer and open-source advocate,"Software Engineering, Open Source Software, Reverse engineering, Gaming and Retro Computing, Tech Culture"
+360,tyler.io,4126.0,8.0,516.0,Tyler Hall,Software developer,Other
+361,zserge.com,4122.0,23.0,179.0,Sergey,Software developer,"Programming Languages, Software Engineering, Other"
+362,jameshfisher.com,4122.0,14.0,294.0,James Fisher,Software engineer and writer,
+363,matt.sh,4100.0,9.0,456.0,,,
+364,hakibenita.com,4098.0,16.0,256.0,,,"Databases, Performance Optimization"
+365,anishathalye.com,4093.0,15.0,273.0,Anish Athalye,Computer scientist,
+367,two-wrongs.com,4083.0,37.0,110.0,Christoffer Stjernlöf,,"Software Engineering, Open Source Software, Mathematics, Web Development, Cybersecurity"
+369,juliareda.eu,4063.0,16.0,254.0,Julia Reda,Former Member of the European Parliament,"Tech Policy, Privacy, Other"
+370,constructionphysics.substack.com,4060.0,29.0,140.0,Brian Potter,Engineer and writer,"AI and Machine Learning, Hardware and Electronics, Tech Business, Venture Capital"
+371,codewords.recurse.com,4050.0,25.0,162.0,,,
+372,ignorethecode.net,4040.0,39.0,104.0,Ralf Rottmann,Entrepreneur and writer,"Productivity and Tools, Software Engineering, Operating Systems"
+373,pagetable.com,4023.0,47.0,86.0,Michael Steil,Software engineer and historian,"Gaming and Retro Computing, History of Technology"
+374,batsov.com,4022.0,23.0,175.0,,,"Productivity and Tools, Software Engineering, Open Source Software"
+376,justinjackson.ca,4005.0,20.0,200.0,,,"Tech Business, Startups, Productivity and Tools"
+378,henrikwarne.com,3993.0,31.0,129.0,,,"Software Engineering, Programming Languages, Productivity and Tools, Computer Science"
+379,lynalden.com,3976.0,24.0,166.0,Lyn Alden,Investment strategist and writer,
+380,leancrew.com,3974.0,46.0,86.0,,,"Mathematics, Software Engineering"
+381,blog.burntsushi.net,3964.0,16.0,248.0,,,"Programming Languages, Open Source Software, Software Engineering"
+382,fossil-scm.org,3960.0,29.0,137.0,,,
+383,kristoff.it,3960.0,21.0,189.0,,,
+384,hookrace.net,3959.0,21.0,189.0,,,"Software Engineering, DevOps, Programming Languages, Data Science"
+385,bost.ocks.org,3953.0,17.0,233.0,,,
+386,borretti.me,3940.0,28.0,141.0,Fernando Borretti,Developer and programming language author,"Software Engineering, Systems Programming, Open Source Software, Tech Culture"
+388,ridiculousfish.com,3903.0,23.0,170.0,,,
+389,ounapuu.ee,3899.0,21.0,186.0,Herman Õunapuu,Programmer and digital archivist,"Tech Culture, Hardware and Electronics, Open Source Software, Other"
+390,xdavidhu.me,3878.0,5.0,776.0,David Schütz,,
+391,stopa.io,3871.0,22.0,176.0,,,
+392,jcs.org,3852.0,32.0,120.0,,,"Reverse engineering, Open Source Software, Hardware and Electronics, Gaming and Retro Computing"
+393,thirtythreeforty.net,3848.0,5.0,770.0,,,
+394,michaelnielsen.org,3830.0,40.0,96.0,,,
+395,pythonspeed.com,3828.0,24.0,160.0,,,Software Engineering
+398,ploum.net,3811.0,19.0,201.0,Ploum,Author and blogger,
+399,writing.kemitchell.com,3810.0,30.0,127.0,,,
+400,gogameguru.com,3807.0,8.0,476.0,,,
+401,baldurbjarnason.com,3805.0,22.0,173.0,Baldur Bjarnason,Researcher and writer,"Tech Business, Web Development, Big Tech, Tech Policy"
+403,eloquentjavascript.net,3799.0,10.0,380.0,Marijn Haverbeke,Developer and author,
+405,nathanmarz.com,3786.0,35.0,108.0,,,"Software Engineering, Programming Languages, Startups, Tech Business"
+406,ayende.com,3771.0,37.0,102.0,Oren Eini,Developer and founder of RavenDB,
+410,grumpygamer.com,3734.0,20.0,187.0,,,"Software Engineering, Gaming and Retro Computing, Web Development"
+411,slowboring.com,3731.0,31.0,120.0,Matthew Yglesias,Journalist and writer,
+412,kev.inburke.com,3723.0,17.0,219.0,,,
+413,masswerk.at,3718.0,43.0,86.0,,,
+414,kleinbottle.com,3717.0,6.0,620.0,,,
+415,stevehanov.ca,3702.0,26.0,142.0,,,
+416,herbsutter.com,3700.0,35.0,106.0,,,"Programming Languages, Software Engineering, Cybersecurity, Computer Science"
+417,addyosmani.com,3698.0,31.0,119.0,Addy Osmani,Engineering manager at Google,"AI and Machine Learning, Software Engineering, Web Development, Tech Culture"
+418,blog.bradfieldcs.com,3697.0,8.0,462.0,,,
+419,thoughtcrime.org,3697.0,12.0,308.0,,,Other
+420,onemileatatime.com,3695.0,13.0,284.0,Ben Schlappig,Travel expert and blogger,
+421,davidgerard.co.uk,3688.0,41.0,90.0,,,
+422,medium.dave-bailey.com,3684.0,10.0,368.0,,,"Tech Business, Productivity and Tools, AI and Machine Learning"
+424,philip.greenspun.com,3683.0,54.0,68.0,Philip Greenspun,MIT professor and photographer,
+425,blog.cr.yp.to,3682.0,23.0,160.0,Daniel J. Bernstein,Cryptographer,
+426,kennethreitz.org,3667.0,15.0,244.0,,,
+427,sneak.berlin,3665.0,15.0,244.0,,,"Software Engineering, Open Source Software, Programming Languages, Computer Science, Tech Culture"
+428,tomtunguz.com,3663.0,47.0,78.0,,,
+429,herman.bearblog.dev,3663.0,17.0,215.0,Herman Martinus,Developer and writer,"Tech Culture, Web Development, Cybersecurity, Tech Business"
+430,gregoryszorc.com,3655.0,18.0,203.0,,,Software Engineering
+431,daltoncaldwell.com,3649.0,28.0,130.0,,,"Tech Business, Startups, Finance and FinTech"
+432,lexi-lambda.github.io,3644.0,16.0,228.0,,,
+433,successfulsoftware.net,3638.0,26.0,140.0,,,"Software Engineering, Tech Business, Startups, Productivity and Tools"
+434,haskellforall.com,3633.0,34.0,107.0,,,
+435,blog.metaobject.com,3632.0,41.0,89.0,,,
+437,jeff-vogel.blogspot.com,3627.0,32.0,113.0,,,"Gaming and Retro Computing, Tech Business, Software Engineering, Web Development"
+438,blog.ploeh.dk,3617.0,24.0,151.0,Mark Seemann,Software developer and author,"Software Engineering, Open Source Software, Programming Languages, Computer Science"
+439,charlespetzold.com,3616.0,24.0,151.0,Charles Petzold,Author and programmer,"Mathematics, Tech Culture, Other"
+440,gameprogrammingpatterns.com,3595.0,14.0,257.0,,,
+441,mnot.net,,,,,,"Software Engineering, Tech Policy, Privacy, Networking"
+442,blog.garrytan.com,3590.0,19.0,189.0,,,
+444,lexaloffle.com,3584.0,20.0,179.0,Joseph White,Indie game developer,"Gaming and Retro Computing, Programming Languages"
+445,jakevdp.github.io,3584.0,22.0,163.0,,,"Data Science, Software Engineering, Mathematics, Computer Science, Visualization and Design"
+446,rhaas.blogspot.com,3578.0,24.0,149.0,Robert Haas,PostgreSQL major contributor and database expert,"Databases, Open Source Software, Software Engineering"
+447,alexwlchan.net,3577.0,12.0,298.0,Alex Chan,Developer and writer,"Web Development, Software Engineering, Programming Languages, Productivity and Tools"
+449,lightbluetouchpaper.org,3573.0,32.0,112.0,,,
+451,allenpike.com,3563.0,15.0,238.0,Allen Pike,Software developer and entrepreneur,
+452,ianthehenry.com,3552.0,24.0,148.0,Ian Henry,Entrepreneur and writer,"Software Engineering, Systems Programming, Open Source Software, Productivity and Tools"
+453,codewithoutrules.com,3551.0,19.0,187.0,,,
+454,alexdanco.com,3549.0,24.0,148.0,,,"Big Tech, Finance and FinTech, Tech Business"
+455,dataswamp.org/~solene,3539.0,28.0,126.0,Solène Rapenne,Developer and open-source contributor,"Cybersecurity, Operating Systems, Privacy, Open Source Software"
+456,justgetflux.com,3538.0,12.0,295.0,,,
+457,evertpot.com,3537.0,19.0,186.0,,,"Web Development, Software Engineering, Programming Languages, DevOps"
+458,thesoundingline.com,3535.0,37.0,96.0,,,
+459,craigmod.com,3534.0,28.0,126.0,Craig Mod,Writer and photographer,"Tech Culture, Productivity and Tools"
+461,blog.servo.org,3522.0,12.0,294.0,,,"Web Development, Open Source Software, Programming Languages, Cybersecurity"
+462,nathanbarry.com,3519.0,36.0,98.0,,,"Tech Business, Startups, Productivity and Tools, Finance and FinTech"
+463,dustri.org,3511.0,18.0,195.0,,,
+465,geoff.greer.fm,3507.0,13.0,270.0,,,"Hardware and Electronics, Tech Culture, History of Technology, Tech Policy"
+466,kerkour.com,3501.0,33.0,106.0,Guillaume Kerkour,Security researcher and writer,
+467,lucasfcosta.com,3491.0,20.0,175.0,Lucas F. Costa,Software engineer and writer,"Software Engineering, Web Development, Productivity and Tools, Tech Culture, Tech Business"
+468,mooseyanon.medium.com,3487.0,2.0,1744.0,,,"Tech Culture, Software Engineering, Web Development, Productivity and Tools"
+470,admiralcloudberg.medium.com,3479.0,19.0,183.0,Kyra Dempsey,Plane crash analyst,"History of Technology, Other"
+471,samwho.dev,3479.0,7.0,497.0,Sam Rose,Developer and writer,"Computer Science, Software Engineering, Web Development, Open Source Software"
+472,tom.preston-werner.com,3474.0,21.0,165.0,,,"Web Development, Startups, Venture Capital, Software Engineering"
+473,bigmessowires.com,3472.0,30.0,116.0,Steve Chamberlin,,"Hardware and Electronics, Gaming and Retro Computing, History of Technology"
+474,varnull.adityamukerjee.net,3470.0,4.0,868.0,,,
+475,edwardsnowden.substack.com,3467.0,11.0,315.0,Edward Snowden,Whistleblower and privacy advocate,"Cybersecurity, Privacy, Tech Policy, Other"
+476,danshipper.com,3462.0,26.0,133.0,,,
+477,tidyfirst.substack.com,3461.0,24.0,144.0,Kent Beck,Software developer and author,"Software Engineering, Programming Languages, Computer Science"
+479,blog.danslimmon.com,3457.0,12.0,288.0,,,
+480,blog.brixit.nl,3455.0,16.0,216.0,Martijn Braam,,"Hardware and Electronics, Open Source Software, Software Engineering, Reverse engineering"
+481,snellman.net,3451.0,25.0,138.0,,,
+482,sachagreif.com,3449.0,23.0,150.0,,,
+483,crawshaw.io,3445.0,12.0,287.0,David Crawshaw,Software engineer,"Software Engineering, Programming Languages, Web Development, Productivity and Tools"
+484,beepb00p.xyz,3442.0,14.0,246.0,Karli Coss,Developer,
+485,ericmigi.com,3426.0,3.0,1142.0,,,
+487,meltingasphalt.com,3418.0,20.0,171.0,,,"Computer Science, Mathematics, Other"
+488,mikeash.com,3418.0,33.0,104.0,,,
+489,teenage.engineering,3411.0,15.0,227.0,,,
+490,people.xiph.org/~xiphmont,3411.0,15.0,227.0,,,
+492,bitfieldconsulting.com,3401.0,27.0,126.0,John Arundel,,
+493,tsaoutofourpants.wordpress.com,3401.0,12.0,283.0,,,"Tech Policy, Privacy, Other"
+494,andrewchen.co,3396.0,32.0,106.0,,,
+495,byorgey.wordpress.com,3394.0,10.0,339.0,,,"Programming Languages, Software Engineering, Open Source Software, Computer Science"
+496,drmaciver.com,3393.0,22.0,154.0,,,Tech Culture
+498,neil.computer,3388.0,9.0,376.0,,,"Systems Programming, Open Source Software, Databases, DevOps"
+499,netmeister.org,3386.0,30.0,113.0,Jan Schaumann,Engineer and writer,"Cryptography, Tech Policy, Cybersecurity, Networking"
+500,woodgears.ca,3384.0,20.0,169.0,,,
+501,misc-stuff.terraaeon.com,3375.0,12.0,281.0,,,
+503,lukeplant.me.uk,3372.0,30.0,112.0,,,
+505,jalammar.github.io,3367.0,17.0,198.0,,,"AI and Machine Learning, Visualization and Design, Gaming and Retro Computing"
+506,amasci.com,3366.0,22.0,153.0,,,
+507,grumpy.website,3364.0,8.0,421.0,,,Tech Culture
+508,codersnotes.com,3339.0,22.0,152.0,,,
+509,artemis.sh,3335.0,13.0,257.0,artemis everfree,,"Open Source Software, Web Development, Productivity and Tools, Tech Culture"
+510,magazine.sebastianraschka.com,3333.0,13.0,256.0,Sebastian Raschka,Machine learning researcher and author,
+511,quoteinvestigator.com,3332.0,23.0,145.0,,,Other
+512,swizec.com,3331.0,46.0,72.0,Swizec Teller,"Software engineer, vlogger, and author",
+513,blog.reverberate.org,3325.0,25.0,133.0,,,
+514,jonathanhaidt.substack.com,3320.0,10.0,332.0,Jonathan Haidt,Social psychologist and author,"Tech Culture, Tech Policy, Privacy"
+515,bartoszmilewski.com,3308.0,27.0,123.0,,,"Computer Science, Mathematics, AI and Machine Learning, Programming Languages"
+517,write.as,3301.0,21.0,157.0,,,"Tech Culture, Other"
+519,commandcenter.blogspot.com,3298.0,23.0,143.0,,,"Software Engineering, Programming Languages, Computer Science, Open Source Software"
+520,lihaoyi.com,3297.0,25.0,132.0,,,"Software Engineering, Programming Languages, Open Source Software, Computer Science"
+522,brendaneich.com,3293.0,16.0,206.0,,,"Web Development, Programming Languages, Tech Business"
+523,bitquabit.com,3290.0,24.0,137.0,,,"Software Engineering, Programming Languages, Productivity and Tools, Open Source Software, Tech Culture"
+524,boyter.org,3289.0,19.0,173.0,Ben Boyter,Developer,
+525,platformer.news,3282.0,27.0,122.0,Casey Newton,Independent tech journalist,"Tech Policy, Big Tech, Tech Business, Privacy"
+526,wozniak.ca,3278.0,10.0,328.0,,,
+527,mango.pdf.zone,3271.0,6.0,545.0,,,"Cybersecurity, Reverse engineering, Tech Culture, Other"
+528,sockpuppet.org,3267.0,14.0,233.0,Thomas Ptacek,Security researcher and entrepreneur,"Cybersecurity, Cryptography, Tech Policy, Reverse engineering"
+530,resobscura.substack.com,3252.0,29.0,112.0,Erik Wade,Writer and historian,
+531,yurichev.com,3249.0,22.0,148.0,,,
+532,guzey.com,3249.0,17.0,191.0,,,
+533,insights.ubuntu.com,3248.0,24.0,135.0,,,"Open Source Software, Cloud Computing, Operating Systems, DevOps"
+537,byran.ee,3237.0,1.0,3237.0,Byran Huang,Indie laptop maker,
+538,100r.co,3230.0,13.0,248.0,,,"Web Development, Open Source Software, Productivity and Tools, Gaming and Retro Computing"
+539,alexgaynor.net,3228.0,25.0,129.0,,,"Open Source Software, Systems Programming, Programming Languages, Software Engineering"
+540,languagelog.ldc.upenn.edu,3228.0,40.0,81.0,,,
+541,robinwieruch.de,3228.0,17.0,190.0,,,"Web Development, Software Engineering, AI and Machine Learning, Cybersecurity"
+542,henrikkarlsson.xyz,3221.0,13.0,248.0,Henrik Karlsson,Independent developer and writer,"Tech Culture, Other"
+543,blog.phusion.nl,3215.0,44.0,73.0,,,
+544,jaycarlson.net,3206.0,9.0,356.0,,,"Software Engineering, Networking"
+546,briancallahan.net,3190.0,25.0,128.0,,,
+547,demoscene-the-art-of-coding.net,3189.0,3.0,1063.0,,,"Gaming and Retro Computing, Tech Culture, Computer Science"
+549,2ality.com,3185.0,34.0,94.0,,,"Web Development, Programming Languages, Software Engineering, Computer Science"
+550,michaelgeist.ca,3184.0,24.0,133.0,Michael Geist,Law professor and digital rights advocate,"Tech Policy, Privacy"
+552,fishshell.com,3182.0,11.0,289.0,,,
+553,lofibucket.com,3180.0,8.0,398.0,,,
+554,minnie.tuhs.org,3178.0,19.0,167.0,,,
+555,kibty.town,3177.0,3.0,1059.0,Kibty,Writer and artist,
+556,esr.ibiblio.org,3176.0,52.0,61.0,,,"Operating Systems, Open Source Software, Software Engineering, Tech Business"
+557,justinkan.com,3174.0,19.0,167.0,,,
+559,joel.is,3173.0,49.0,65.0,,,"Tech Business, Startups, Web Development, Open Source Software"
+560,golem.ph.utexas.edu,3169.0,22.0,144.0,,,
+561,huyenchip.com,3168.0,16.0,198.0,,,"AI and Machine Learning, Software Engineering, Data Science, Tech Business"
+562,palant.de,3168.0,16.0,198.0,,,"Cybersecurity, Privacy, Web Development, Open Source Software"
+564,aaronkharris.com,3153.0,27.0,117.0,,,
+565,netzpolitik.org,3150.0,22.0,143.0,,,"Tech Policy, Privacy, Cybersecurity, Tech Culture"
+566,software.rajivprab.com,3144.0,16.0,197.0,,,"Software Engineering, Tech Culture, Tech Business"
+568,hynek.me,3132.0,22.0,142.0,,,"Software Engineering, DevOps, Programming Languages, Productivity and Tools"
+569,socialcooling.com,3131.0,3.0,1044.0,,,
+570,keygen.sh,3130.0,9.0,348.0,Zeke Gabrielse,Founder of Keygen,
+571,effectiviology.com,3127.0,12.0,261.0,Itamar Shatz,,Other
+572,soatok.blog,3124.0,34.0,92.0,Soatok Dreamseeker,Security researcher and furry,"Cybersecurity, Cryptography, Tech Culture, Privacy, Tech Policy"
+573,jasonshen.com,3123.0,41.0,76.0,,,"Startups, Tech Business, Productivity and Tools"
+577,clivethompson.medium.com,3114.0,9.0,346.0,Clive Thompson,Journalist and author,"Tech Culture, Productivity and Tools"
+578,bit-player.org,3113.0,38.0,82.0,,,
+579,teachyourselfcs.com,3113.0,4.0,778.0,,,
+580,doublepulsar.com,3108.0,12.0,259.0,,,"Cybersecurity, Cloud Computing, Big Tech, Privacy"
+581,512pixels.net,3102.0,21.0,148.0,Stephen Hackett,Writer and podcaster,"Tech Culture, Big Tech, Tech Business"
+582,nickjanetakis.com,3102.0,20.0,155.0,,,"DevOps, Web Development, Software Engineering, Cloud Computing"
+583,whatever.scalzi.com,3088.0,27.0,114.0,,,Tech Culture
+584,bitecode.dev,3084.0,15.0,206.0,Anonymous,,"Software Engineering, Programming Languages, Tech Culture"
+585,programmingisterrible.com,3081.0,18.0,171.0,,,"Programming Languages, Software Engineering, Tech Culture"
+586,infrequently.org,3075.0,24.0,128.0,,,"Web Development, Performance Optimization, Software Engineering, Tech Culture"
+587,harmful.cat-v.org,3073.0,23.0,134.0,,,
+588,vidarholen.net,3072.0,16.0,192.0,,,
+589,micahlerner.com,3071.0,30.0,102.0,Micah Lerner,Software engineer and writer,
+590,chrisdone.com,3067.0,24.0,128.0,,,"AI and Machine Learning, Software Engineering, Programming Languages, Productivity and Tools"
+591,blog.ezyang.com,3060.0,36.0,85.0,,,"AI and Machine Learning, Software Engineering, Programming Languages, Performance Optimization"
+595,foundersatwork.posthaven.com,3047.0,15.0,203.0,,,"Startups, Tech Business, Venture Capital, Software Engineering"
+597,colah.github.io,3042.0,18.0,169.0,,,"AI and Machine Learning, Computer Science, Data Science"
+598,markosaric.com,3042.0,7.0,435.0,,,"Web Development, Tech Business, Privacy, Tech Policy, Data Science"
+599,iafrikan.com,3039.0,47.0,65.0,,,"Big Tech, Tech Business, Startups"
+600,blog.jonlu.ca,3038.0,19.0,160.0,,,
+601,nakedcapitalism.com,3037.0,41.0,74.0,,,"Finance and FinTech, Cybersecurity, Tech Business, Tech Policy"
+602,ryanwaggoner.com,3036.0,24.0,127.0,,,"Tech Business, Startups, Productivity and Tools"
+604,fpcomplete.com,3034.0,32.0,95.0,,,
+605,geoffreylitt.com,3028.0,15.0,202.0,Geoffrey Litt,Software developer and researcher,"AI and Machine Learning, Software Engineering"
+606,practicaltypography.com,3028.0,16.0,189.0,,,"Web Development, Visualization and Design, Tech Culture, Other"
+607,wattenberger.com,3025.0,11.0,275.0,,,"Visualization and Design, Web Development, Tech Culture, Productivity and Tools"
+608,viewsourcecode.org,3024.0,6.0,504.0,,,
+609,waitbutwhy.com,3020.0,37.0,82.0,,,"Tech Culture, Productivity and Tools, Tech Business"
+610,lunduke.locals.com,3018.0,25.0,121.0,Bryan Lunduke,Technology journalist and podcaster,"Tech Culture, Tech Policy, Open Source Software, Big Tech"
+611,cultofmac.com,3017.0,36.0,84.0,,,"Tech Culture, Big Tech, History of Technology"
+614,neverworkintheory.org,3014.0,28.0,108.0,,,"Software Engineering, Open Source Software, Computer Science"
+615,blog.dshr.org,3009.0,21.0,143.0,,,"Tech Culture, History of Technology, Computer Science, Web Development, Open Source Software, Privacy"
+616,mitchellh.com,3006.0,19.0,158.0,Mitchell Hashimoto,Co-founder of HashiCorp,"Software Engineering, Open Source Software, Systems Programming, Productivity and Tools"
+617,jasondavies.com,3005.0,19.0,158.0,,,
+618,betterprogramming.pub,3003.0,25.0,120.0,,,"Software Engineering, Web Development, Programming Languages, Data Science"
+619,bjk5.com,3002.0,17.0,177.0,,,"Startups, Tech Business, Computer Science"
+621,ericlippert.com,2998.0,24.0,125.0,,,"Programming Languages, Software Engineering, Computer Science, Systems Programming"
+622,danshapiro.com,2996.0,31.0,97.0,,,
+623,teamten.com,2995.0,26.0,115.0,,,
+624,nbviewer.ipython.org,2992.0,29.0,103.0,,,
+626,toddwschneider.com,2986.0,25.0,119.0,,,"Data Science, Visualization and Design, Mathematics"
+628,archaeology.org,2978.0,51.0,58.0,,,History of Technology
+629,pathsensitive.com,2978.0,15.0,199.0,,,
+630,darlinghq.org,2978.0,6.0,496.0,,,"Operating Systems, Open Source Software, Computer Science"
+631,louwrentius.com,2977.0,21.0,142.0,,,"Hardware and Electronics, Open Source Software, Systems Programming, Productivity and Tools"
+632,tom7.org,2977.0,14.0,213.0,,,
+634,thehackerblog.com,2969.0,10.0,297.0,,,"Cybersecurity, Web Development, Software Engineering, Reverse engineering"
+635,typesetinthefuture.com,2967.0,9.0,330.0,,,"Visualization and Design, History of Technology, AI and Machine Learning, Tech Culture"
+636,ar.al,2964.0,17.0,174.0,,,"Web Development, Tech Culture, Tech Policy, Open Source Software"
+637,objective-see.com,2963.0,18.0,165.0,,,"Cybersecurity, Reverse engineering, Operating Systems"
+638,sidbala.com,2955.0,4.0,739.0,,,"Hardware and Electronics, Computer Science, Performance Optimization"
+639,siberiantimes.com,2954.0,16.0,185.0,,,
+640,explainshell.com,2944.0,6.0,491.0,,,
+641,kevq.uk,2943.0,13.0,226.0,,,"Operating Systems, Open Source Software"
+644,blog.cleancoder.com,2933.0,25.0,117.0,,,"Software Engineering, Programming Languages, Computer Science, Open Source Software"
+645,notes.alinpanaitiu.com,2932.0,11.0,267.0,Alin Panaitiu,Developer and writer,"Web Development, Software Engineering, Programming Languages, Tech Culture"
+646,doctorow.medium.com,2924.0,26.0,112.0,Cory Doctorow,Author and activist,"Tech Culture, Tech Policy, Privacy, Open Source Software"
+647,swannodette.github.io,2922.0,17.0,172.0,,,
+648,math.columbia.edu/~woit,2921.0,29.0,101.0,,,Mathematics
+649,jakelazaroff.com,2920.0,11.0,265.0,Jake Lazaroff,Developer and writer,"Web Development, Software Engineering, Programming Languages"
+650,cake.co,2916.0,9.0,324.0,,,
+651,futilitycloset.com,2912.0,16.0,182.0,Greg Ross,Writer and editor,"Mathematics, Other"
+652,instagram-engineering.com,2906.0,12.0,242.0,,,"Software Engineering, Data Science, Web Development, Performance Optimization"
+653,textslashplain.com,2899.0,18.0,161.0,,,"Cybersecurity, Reverse engineering, Software Engineering, Web Development"
+654,projecteuler.net,2892.0,12.0,241.0,,,
+655,3blue1brown.com,2891.0,8.0,361.0,Grant Sanderson,Mathematician and educator,"Mathematics, Computer Science, Visualization and Design"
+656,ghuntley.com,2889.0,19.0,152.0,,,"AI and Machine Learning, Software Engineering, Web Development, Computer Science"
+657,noahpinion.blog,2889.0,38.0,76.0,Noah Smith,Economist and writer,Other
+658,thomask.sdf.org,2889.0,8.0,361.0,Thomas K,Developer and writer,"Open Source Software, Programming Languages, DevOps, Systems Programming"
+661,peabee.substack.com,2885.0,4.0,721.0,,,"Tech Culture, Tech Business, Privacy, History of Technology"
+662,cprimozic.net,2884.0,11.0,262.0,,,"Software Engineering, Web Development, Gaming and Retro Computing, Visualization and Design"
+663,sahillavingia.com,2884.0,30.0,96.0,,,
+664,akkartik.name,2883.0,21.0,137.0,,,
+665,iquilezles.org,2881.0,21.0,137.0,,,
+666,den.dev,2878.0,9.0,320.0,,,"Software Engineering, Cybersecurity, Cloud Computing, Web Development"
+667,vadimkravcenko.com,2878.0,18.0,160.0,Vadim Kravcenko,Software developer and writer,"Startups, Web Development, Software Engineering, Tech Business"
+668,edweissman.com,2878.0,10.0,288.0,,,Other
+669,preshing.com,2874.0,28.0,103.0,,,"Software Engineering, Open Source Software, Gaming and Retro Computing, Programming Languages"
+670,blog.jenniferdewalt.com,2871.0,5.0,574.0,,,"Web Development, Software Engineering, Startups, Tech Culture"
+672,jmmv.dev,2861.0,17.0,168.0,,,"Operating Systems, Systems Programming, Software Engineering, Computer Science"
+673,bert.org,2856.0,8.0,357.0,,,"Gaming and Retro Computing, History of Technology, Reverse engineering, Cybersecurity"
+674,aras-p.info,2851.0,18.0,158.0,Aras Pranckevičius,Game developer,"Gaming and Retro Computing, Software Engineering, Visualization and Design, Other"
+677,jakobgreenfeld.com,2847.0,13.0,219.0,Jakob Greenfeld,Entrepreneur and writer,"Tech Business, Startups, Productivity and Tools, Tech Culture"
+678,cityobservatory.org,2847.0,25.0,114.0,,,"Tech Policy, Other"
+679,elemental.medium.com,2842.0,21.0,135.0,,,Tech Culture
+681,mattferraro.dev,2838.0,8.0,355.0,,,
+682,casparwre.de,2838.0,4.0,710.0,,,"Web Development, Software Engineering, Tech Business, Startups"
+684,jimmyhmiller.github.io,2834.0,5.0,567.0,Jimmy Miller,Software developer and blogger,"Software Engineering, Programming Languages, Open Source Software"
+685,brandons.me,2832.0,12.0,236.0,,,"Software Engineering, Programming Languages, Systems Programming, Open Source Software"
+686,adayinthelifeof.nl,2832.0,7.0,405.0,,,"Web Development, Open Source Software, Programming Languages, Reverse engineering, Gaming and Retro Computing"
+687,softwarebyrob.com,2831.0,36.0,79.0,,,
+688,eklitzke.org,2827.0,20.0,141.0,,,
+689,awealthofcommonsense.com,2823.0,26.0,109.0,,,Finance and FinTech
+690,reasonablypolymorphic.com,2822.0,12.0,235.0,,,"Programming Languages, Software Engineering, Computer Science"
+691,furbo.org,2820.0,17.0,166.0,,,"Web Development, Software Engineering, Tech Culture, Open Source Software"
+692,amusingplanet.com,2819.0,26.0,108.0,,,
+693,briangilham.com,2813.0,2.0,1407.0,,,
+695,ariadne.space,2809.0,23.0,122.0,,,"Cybersecurity, Open Source Software, Software Engineering, Systems Programming"
+696,jacobbartlett.substack.com,2807.0,8.0,351.0,Jacob Bartlett,Writer and analyst,"Software Engineering, Web Development, Startups, Tech Culture"
+698,internalregister.github.io,2804.0,2.0,1402.0,,,"Gaming and Retro Computing, Reverse engineering, Hardware and Electronics"
+699,jpkoning.blogspot.com,2802.0,28.0,100.0,,,"Finance and FinTech, Tech Policy, Cryptography, Big Tech"
+700,cabel.com,2798.0,6.0,466.0,Cabel Sasser,Co-founder of Panic Inc. and writer,"Gaming and Retro Computing, Tech Culture"
+701,blogsystem5.substack.com,2794.0,15.0,186.0,Julio Merino,,"Operating Systems, Systems Programming, Computer Science, Hardware and Electronics"
+702,mattgemmell.com,2794.0,22.0,127.0,,,"Tech Culture, Productivity and Tools"
+704,blog.notdot.net,2791.0,18.0,155.0,,,
+705,bastian.rieck.me,2789.0,21.0,133.0,,,
+706,einaregilsson.com,2789.0,4.0,697.0,,,
+707,centauri-dreams.org,2788.0,31.0,90.0,,,
+708,nayuki.io,2788.0,18.0,155.0,,,"Computer Science, Mathematics, Software Engineering, Web Development"
+709,media.mit.edu,2786.0,19.0,147.0,,,
+710,wolfstreet.com,2784.0,37.0,75.0,,,Finance and FinTech
+711,blog.instapaper.com,2781.0,17.0,164.0,,,"Productivity and Tools, Web Development, Software Engineering"
+712,fieggen.com,2780.0,11.0,253.0,,,
+713,marctenbosch.com,2780.0,10.0,278.0,,,"Mathematics, Gaming and Retro Computing, Computer Science"
+714,bl.ocks.org,2780.0,22.0,126.0,,,"Web Development, Visualization and Design"
+715,agwa.name,2779.0,17.0,163.0,,,"Cybersecurity, Networking, Privacy"
+716,phenomena.nationalgeographic.com,2779.0,28.0,99.0,,,
+717,corte.si,2777.0,32.0,87.0,,,"AI and Machine Learning, Software Engineering, Web Development, Cybersecurity"
+718,dannorth.net,2773.0,11.0,252.0,Dan North,Consultant and developer,"Software Engineering, Tech Business, Productivity and Tools, Computer Science"
+719,pointersgonewild.com,2773.0,19.0,146.0,,,"Software Engineering, Web Development, Programming Languages, Tech Culture, AI and Machine Learning"
+720,warisboring.com,2773.0,33.0,84.0,,,Tech Culture
+722,mazzo.li,2768.0,13.0,213.0,,,
+723,musicforprogramming.net,2766.0,10.0,277.0,,,Other
+724,rtl-sdr.com,2763.0,21.0,132.0,,,"Hardware and Electronics, Open Source Software, Reverse engineering, Networking"
+725,curbed.com,2761.0,41.0,67.0,,,
+726,alternet.org,2761.0,21.0,131.0,,,"Tech Policy, Big Tech"
+729,tttthis.com,2756.0,5.0,551.0,,,Other
+730,calendar.perfplanet.com,2755.0,20.0,138.0,,,"Web Development, Performance Optimization, Visualization and Design"
+731,matt-welsh.blogspot.com,2753.0,26.0,106.0,,,"Startups, Big Tech, AI and Machine Learning"
+732,daniellemorrill.com,2752.0,32.0,86.0,,,"Tech Culture, Tech Business, Startups, Productivity and Tools"
+733,willempennings.nl,2751.0,2.0,1376.0,Willem Pennings,Engineer and inventor,"Hardware and Electronics, Software Engineering, Open Source Software, Reverse engineering"
+734,dspace.mit.edu,2748.0,32.0,86.0,,,Computer Science
+735,world.hey.com/dhh,2742.0,40.0,69.0,,,"Tech Culture, Software Engineering, Web Development, Tech Business"
+736,madebyevan.com,2742.0,14.0,196.0,,,
+737,olano.dev,2739.0,12.0,228.0,Facundo Olano,Developer,"Software Engineering, Web Development, Programming Languages, Open Source Software"
+738,ninjasandrobots.com,2733.0,25.0,109.0,,,"Tech Culture, Productivity and Tools"
+740,dragan.rocks,2730.0,25.0,109.0,,,"AI and Machine Learning, Software Engineering, Open Source Software, Computer Science"
+741,smbc-comics.com,2729.0,18.0,152.0,,,Tech Culture
+742,themarginalian.org,2726.0,25.0,109.0,Maria Popova,Writer and curator,"Tech Culture, History of Technology, Computer Science, Other"
+743,jeffe.cs.illinois.edu,2725.0,6.0,454.0,,,
+745,potaroo.net,2716.0,28.0,97.0,,,
+746,file770.com,2711.0,4.0,678.0,Mike Glyer,Sci-fi enthusiast,"Tech Culture, Open Source Software"
+747,bravenewgeek.com,2710.0,26.0,104.0,,,"DevOps, Cloud Computing, Software Engineering, Tech Business"
+748,experimentalhistory.substack.com,2705.0,11.0,246.0,Devon Zuegel,Writer and software developer,"Tech Culture, History of Technology"
+749,b-list.org,2701.0,19.0,142.0,,,"Software Engineering, Programming Languages, Web Development, Open Source Software"
+751,factordaily.com,2698.0,22.0,123.0,,,"Tech Business, Tech Culture, Startups, Privacy"
+752,lilianweng.github.io,2697.0,20.0,135.0,,,"AI and Machine Learning, Computer Science, Visualization and Design"
+753,hypercritical.co,2695.0,16.0,168.0,John Siracusa,Writer and podcaster,"Tech Culture, Tech Business, Software Engineering, Web Development"
+754,wh0.github.io,2694.0,5.0,539.0,,,"Computer Science, Web Development, Visualization and Design, Other"
+755,obdev.at,2693.0,11.0,245.0,,,"Cybersecurity, Software Engineering, Networking, Operating Systems"
+757,without.boats,2692.0,18.0,150.0,Anonymous,Developer and writer,"Programming Languages, Computer Science"
+758,snarky.ca,2690.0,24.0,112.0,,,"Tech Culture, Programming Languages, Open Source Software, Tech Policy"
+759,richg42.blogspot.com,2689.0,16.0,168.0,,,"Performance Optimization, Reverse engineering, Systems Programming, Software Engineering"
+760,blog.demofox.org,2687.0,30.0,90.0,,,"Mathematics, Gaming and Retro Computing"
+761,devonzuegel.com,2686.0,16.0,168.0,,,
+762,blog.netbsd.org,2683.0,29.0,93.0,,,"Operating Systems, Open Source Software, Systems Programming"
+763,travisdowns.github.io,2676.0,18.0,149.0,,,"Performance Optimization, Computer Science, Systems Programming, Hardware and Electronics"
+764,beautifulracket.com,2673.0,10.0,267.0,,,
+765,andregarzia.com,2669.0,14.0,191.0,,,"Web Development, Open Source Software, Tech Culture, Productivity and Tools"
+766,linuxblog.io,2667.0,22.0,121.0,Hayden James,Linux Systems Analyst,"Software Engineering, Linux, Cloud Computing"
+770,blog.nightly.mozilla.org,2660.0,12.0,222.0,,,
+771,aisnakeoil.substack.com,2658.0,8.0,332.0,Meredith Broussard,Journalist and data scientist,"AI and Machine Learning, Tech Policy, Privacy, Tech Culture"
+773,kevinlynagh.com,,,,,,"Hardware and Electronics, Software Engineering, Systems Programming, Reverse engineering"
+774,spoon-tamago.com,2646.0,22.0,120.0,,,"Visualization and Design, Tech Culture"
+775,pi-hole.net,2641.0,9.0,293.0,,,"Networking, Web Development, DevOps, Open Source Software"
+777,dotat.at,2640.0,17.0,155.0,Tony Finch,Developer,"Software Engineering, Performance Optimization, Computer Science, Programming Languages"
+778,lessig.tumblr.com,2639.0,11.0,240.0,,,Tech Policy
+779,robkhenderson.substack.com,2636.0,16.0,165.0,Rob Henderson,Social psychologist and writer,Tech Culture
+780,neustadt.fr,2631.0,7.0,376.0,,,
+781,nwn.blogs.com,2630.0,22.0,120.0,,,
+782,danlebrero.com,2630.0,7.0,376.0,,,"Software Engineering, Computer Science, Programming Languages, Tech Business, Productivity and Tools"
+783,amazingcto.com,2629.0,12.0,219.0,Stephan Schmidt,CTO coach and author,"Tech Business, Software Engineering, Programming Languages, Startups, Productivity and Tools"
+785,techempower.com,2629.0,19.0,138.0,,,"Software Engineering, Web Development, Tech Business, AI and Machine Learning, Performance Optimization"
+786,vldb.org,2628.0,34.0,77.0,,,
+788,saurabhs.org,2626.0,2.0,1313.0,Saurabh,,
+789,patshaughnessy.net,2626.0,16.0,164.0,,,"Programming Languages, Computer Science, Performance Optimization"
+791,markodenic.com,2622.0,4.0,656.0,,,"Linux, AI and Machine Learning"
+793,surma.dev,2620.0,7.0,374.0,,,"Software Engineering, Computer Science, Reverse Engineering"
+794,metalevel.at,2619.0,14.0,187.0,,,
+795,blog.koehntopp.info,2617.0,15.0,174.0,,,"Hardware and Electronics, Tech Culture"
+796,missing.csail.mit.edu,2617.0,5.0,523.0,,,
+797,eater.net,2617.0,10.0,262.0,,,
+798,samsaffron.com,2617.0,16.0,164.0,,,
+800,surfingcomplexity.blog,2613.0,27.0,97.0,,,"Software Engineering, Systems Programming, DevOps, Computer Science"
+801,varnish-cache.org,2609.0,23.0,113.0,,,
+802,rondam.blogspot.com,2609.0,20.0,130.0,,,"Startups, Tech Business, Tech Culture"
+803,rwmj.wordpress.com,2608.0,16.0,163.0,Richard W.M. Jones,Software engineer and open source contributor,"Software Engineering, Computer Science, Operating Systems"
+804,gowers.wordpress.com,2601.0,23.0,113.0,,,"Mathematics, Computer Science, AI and Machine Learning, Tech Culture"
+805,manishearth.github.io,2600.0,19.0,137.0,,,"Programming Languages, Software Engineering, Systems Programming, Performance Optimization"
+806,connortumbleson.com,2598.0,3.0,866.0,Connor Tumbleson,Software developer and writer,"Other, Open Source Software, Software Engineering, Cybersecurity"
+809,geon.github.io,2592.0,6.0,432.0,,,"Gaming and Retro Computing, Web Development, Reverse engineering, Computer Science"
+810,vole.wtf,2591.0,10.0,259.0,,,Other
+811,flif.info,2591.0,4.0,648.0,,,
+812,leahneukirchen.org,2585.0,7.0,369.0,,,
+813,ian.sh,2583.0,3.0,861.0,,,
+814,framablog.org,2583.0,7.0,369.0,,,"Tech Policy, Privacy, AI and Machine Learning, Tech Culture"
+815,adriancourreges.com,2581.0,8.0,323.0,,,"Reverse engineering, Gaming and Retro Computing, Computer Science, Performance Optimization"
+817,dashbit.co,2579.0,12.0,215.0,,,"Programming Languages, Software Engineering, Open Source Software, Computer Science"
+818,tjcx.me,2575.0,7.0,368.0,,,
+819,moserware.com,2573.0,20.0,129.0,,,"Software Engineering, Programming Languages, Open Source Software, Cybersecurity"
+820,crowdsupply.com,2573.0,31.0,83.0,,,
+821,computer.org,2571.0,24.0,107.0,,,
+822,openwrt.org,2570.0,19.0,135.0,,,"Open Source Software, Operating Systems, Networking"
+824,lamport.azurewebsites.net,2569.0,21.0,122.0,,,
+826,bbycroft.net,2564.0,2.0,1282.0,Benjamin Bycroft,Software engineer and writer,
+827,axleos.com,2560.0,11.0,233.0,Phillip Tennen,Hobby OS developer,
+828,jamesbvaughan.com,2559.0,4.0,640.0,James Vaughan,Programmer,"Cybersecurity, Tech Culture, Privacy, Other"
+829,sofuckingagile.com,2554.0,4.0,639.0,Anonymous,,"Tech Culture, Software Engineering, Productivity and Tools, Tech Business"
+830,miguelgrinberg.com,2553.0,15.0,170.0,,,"Web Development, Software Engineering, Programming Languages"
+831,jdk.java.net,2551.0,14.0,182.0,,,
+832,interconnected.org,2550.0,20.0,128.0,,,
+834,nullsweep.com,2548.0,3.0,849.0,,,"Cybersecurity, Web Development, Programming Languages, Cloud Computing"
+836,mzucker.github.io,2544.0,8.0,318.0,,,"Mathematics, Visualization and Design, Hardware and Electronics, Computer Science"
+837,libera.chat,2542.0,8.0,318.0,,,"Open Source Software, Tech Culture, Networking"
+838,pvk.ca,2538.0,34.0,75.0,,,"Cryptography, Performance Optimization, Databases, Systems Programming"
+839,pyvideo.org,2536.0,14.0,181.0,,,"Software Engineering, Web Development, Data Science, Open Source Software"
+840,tynan.com,2535.0,10.0,254.0,,,"Productivity and Tools, Tech Culture"
+841,laplab.me,2533.0,5.0,507.0,Nikita Lapkov,Developer and Database expert,"Programming Languages, Systems Programming, Open Source Software, Performance Optimization"
+842,videogameschronicle.com,2532.0,11.0,230.0,,,Gaming and Retro Computing
+843,matuzo.at,2532.0,7.0,362.0,,,"Web Development, Software Engineering, Productivity and Tools"
+844,gabrielgambetta.com,2530.0,9.0,281.0,,,
+845,jenson.org,2529.0,5.0,506.0,Scott Jenson,,
+846,interviewcake.com,2528.0,13.0,194.0,,,
+847,jonathanturner.org,2528.0,6.0,421.0,,,
+848,dwheeler.com,2527.0,23.0,110.0,,,"Cybersecurity, Open Source Software, Software Engineering, Computer Science"
+849,visualstudio.com,2526.0,15.0,168.0,,,
+850,ruudvanasseldonk.com,2523.0,8.0,315.0,,,"Programming Languages, Software Engineering, Computer Science, Open Source Software"
+851,blog.codingconfessions.com,2521.0,15.0,168.0,Abhinav Upadhyay,,"Computer Science, Hardware and Electronics, Performance Optimization, Software Engineering"
+853,floooh.github.io,2520.0,19.0,133.0,,,"Gaming and Retro Computing, Programming Languages, Software Engineering, Reverse engineering"
+854,davidwalsh.name,2519.0,21.0,120.0,,,"Web Development, Software Engineering, DevOps, Productivity and Tools"
+855,michaeleisen.org,2519.0,9.0,280.0,,,
+856,int10h.org,2518.0,15.0,168.0,,,
+857,inessential.com,2516.0,23.0,109.0,,,"Software Engineering, Web Development, Tech Culture"
+858,annehelen.substack.com,2513.0,12.0,209.0,,,"Tech Culture, Productivity and Tools"
+859,honest-broker.com,2513.0,30.0,84.0,Noah Smith,Economist and writer,
+860,annoying.technology,2513.0,7.0,359.0,,,"Tech Culture, Big Tech, Productivity and Tools"
+863,neilwithdata.com,2510.0,5.0,502.0,,,"Data Science, Databases, Software Engineering, Web Development"
+865,ianstormtaylor.com,2507.0,12.0,209.0,,,"Web Development, Visualization and Design, Software Engineering"
+866,fair.org,2503.0,13.0,193.0,,,"Tech Policy, Tech Culture"
+867,blogs.technet.microsoft.com,2500.0,23.0,109.0,,,
+868,www-cs-faculty.stanford.edu/~knuth,2499.0,17.0,147.0,,,
+869,sandimetz.com,2495.0,9.0,277.0,,,"Software Engineering, Programming Languages, Tech Culture"
+870,blog.paralleluniverse.co,2495.0,23.0,108.0,,,
+871,phabricator.wikimedia.org,2488.0,7.0,355.0,,,
+872,gamedev.net,2488.0,20.0,124.0,,,"Web Development, Gaming and Retro Computing, Software Engineering"
+873,asserttrue.blogspot.com,2488.0,27.0,92.0,,,"Software Engineering, Web Development, Data Science, Tech Culture"
+874,arcadeblogger.com,2486.0,18.0,138.0,,,"Gaming and Retro Computing, History of Technology, Tech Culture"
+875,idea.popcount.org,2485.0,18.0,138.0,,,"Computer Science, Hardware and Electronics, Performance Optimization, Reverse engineering"
+876,secondbreakfast.co,2484.0,7.0,355.0,,,Tech Culture
+877,codeofhonor.com,2482.0,13.0,191.0,,,"Software Engineering, Systems Programming, Gaming and Retro Computing"
+879,yarchive.net,2481.0,21.0,118.0,,,
+880,omar.website,2481.0,3.0,827.0,,,"Computer Science, History of Technology, Software Engineering, Open Source Software"
+881,remarkable.com,2477.0,5.0,495.0,,,
+882,lea.verou.me,2474.0,15.0,165.0,,,"Web Development, Software Engineering, Programming Languages, Computer Science"
+883,lord.io,2473.0,8.0,309.0,,,"Programming Languages, Systems Programming, Performance Optimization, Data Science, Software Engineering"
+884,mikecanex.wordpress.com,2473.0,21.0,118.0,,,Other
+885,pyfound.blogspot.com,2472.0,16.0,155.0,,,"Open Source Software, Programming Languages, Computer Science, Tech Culture"
+886,calacanis.com,2470.0,38.0,65.0,,,
+887,themillions.com,2467.0,34.0,73.0,,,
+888,sealedabstract.com,2467.0,19.0,130.0,,,"Computer Science, Mathematics, Tech Policy, Software Engineering"
+889,code.blender.org,2466.0,10.0,247.0,,,"Software Engineering, Open Source Software, Visualization and Design"
+890,bigtechnology.substack.com,2465.0,13.0,190.0,,,"AI and Machine Learning, Tech Business, Cybersecurity, Big Tech"
+891,catern.com,2464.0,12.0,205.0,,,"Systems Programming, Software Engineering, Programming Languages"
+892,thecorrespondent.com,2464.0,19.0,130.0,,,
+894,blog.logrocket.com,2461.0,26.0,95.0,,,"Web Development, Software Engineering, Productivity and Tools, Tech Business"
+895,morrick.me,2459.0,14.0,176.0,,,"Tech Culture, Big Tech"
+896,singhkays.com,2459.0,6.0,410.0,,,"Hardware and Electronics, Performance Optimization, Software Engineering"
+897,betanews.com,2458.0,30.0,82.0,,,"Cybersecurity, Tech Business, Tech Culture"
+898,conduition.io,2456.0,2.0,1228.0,Conduition,Pseudonymous cypherpunk,"Cryptography, Cybersecurity, Finance and FinTech, Computer Science"
+899,assemblyai.com,2455.0,19.0,129.0,,,
+900,blog.sucuri.net,2455.0,35.0,70.0,,,"Cryptography, Cybersecurity"
+901,specbranch.com,2451.0,6.0,409.0,Nima Badizadegan,Software and hardware developer,Other
+902,donmelton.com,2450.0,10.0,245.0,,,Other
+903,codahale.com,2449.0,21.0,117.0,,,"Cryptography, Performance Optimization, Cybersecurity"
+904,virtuallyfun.com,2448.0,27.0,91.0,neozeed,,"Gaming and Retro Computing, Operating Systems, Reverse engineering"
+906,labs.detectify.com,2447.0,8.0,306.0,,,"Cybersecurity, Web Development"
+907,blog.samuelmaddock.com,2446.0,3.0,815.0,,,"Web Development, Open Source Software, Tech Policy, Big Tech, Privacy"
+908,jott.live,2445.0,16.0,153.0,,,
+909,blog.revolutionanalytics.com,2445.0,20.0,122.0,,,
+910,beza1e1.tuxen.de,2443.0,24.0,102.0,,,
+911,computerenhance.com,2440.0,11.0,222.0,Casey Muratori,Independent video game developer,"Performance Optimization, Computer Science, Software Engineering, Systems Programming"
+912,cyclingtips.com,2440.0,17.0,144.0,,,
+913,meyerweb.com,2438.0,17.0,143.0,,,"Web Development, Visualization and Design"
+914,chrisfenton.com,2437.0,18.0,135.0,,,"Hardware and Electronics, Computer Science"
+915,urbit.org,2432.0,17.0,143.0,,,
+916,gleam.run,2430.0,18.0,135.0,Louis Pilfold,,"Programming Languages, Open Source Software, Software Engineering"
+917,blog.plan99.net,2430.0,12.0,203.0,,,"Cryptography, Tech Policy, Open Source Software, Tech Culture"
+918,jenkins.io,2426.0,10.0,243.0,,,"Software Engineering, DevOps, Open Source Software"
+919,sangaline.com,2426.0,6.0,404.0,,,"Web Development, Data Science, Reverse engineering, Computer Science"
+920,lars.ingebrigtsen.no,2423.0,12.0,202.0,,,"Tech Culture, Other"
+921,fsharpforfunandprofit.com,2422.0,21.0,115.0,,,"Programming Languages, Software Engineering, Open Source Software, Computer Science"
+922,slashgear.com,2419.0,32.0,76.0,,,"Tech Business, Hardware and Electronics, Other"
+923,hixie.ch,2418.0,5.0,484.0,Ian Hickson,Software engineer,
+924,gigamonkeys.com,2418.0,21.0,115.0,,,
+925,jasmcole.com,2416.0,12.0,201.0,,,"Web Development, Software Engineering, Data Science, Visualization and Design"
+926,durmonski.com,2414.0,14.0,172.0,,,
+927,benjamincongdon.me,2413.0,10.0,241.0,,,"AI and Machine Learning, Software Engineering, Web Development, Productivity and Tools"
+928,copy.sh,2413.0,10.0,241.0,,,
+929,ryancarson.com,2412.0,18.0,134.0,,,"Tech Business, Startups, Software Engineering, AI and Machine Learning"
+930,a1k0n.net,2411.0,17.0,142.0,,,"Hardware and Electronics, Reverse engineering, Computer Science, Mathematics"
+931,trickster.dev,2410.0,14.0,172.0,,,"Web Development, Cybersecurity, Reverse engineering, Open Source Software"
+932,sicpers.info,2409.0,21.0,115.0,,,"Software Engineering, Tech Culture"
+933,victorzhou.com,2409.0,11.0,219.0,,,"Web Development, Software Engineering, Performance Optimization, Productivity and Tools"
+936,willcrichton.net,2403.0,15.0,160.0,,,
+937,belkadan.com,2399.0,17.0,141.0,,,
+938,maxread.substack.com,2391.0,12.0,199.0,Max Read,Writer and editor,"Tech Culture, Tech Policy, Big Tech, Web Development"
+939,artima.com,2390.0,39.0,61.0,,,
+940,loup-vaillant.fr,2386.0,23.0,104.0,,,"Cybersecurity, Hardware and Electronics, Cryptography, Reverse engineering"
+941,pomax.github.io,2385.0,14.0,170.0,,,"Web Development, Visualization and Design, Mathematics"
+942,openstreetmap.org,2384.0,14.0,170.0,,,
+943,pedestrianobservations.com,2380.0,23.0,103.0,,,"Tech Policy, Other"
+944,if50.substack.com,2377.0,18.0,132.0,,,"Gaming and Retro Computing, History of Technology"
+945,andreinc.net,2376.0,13.0,183.0,Andrei Nicusan,Developer and writer,Mathematics
+946,veekaybee.github.io,2376.0,8.0,297.0,,,"Web Development, Software Engineering, Programming Languages"
+947,adage.com,2375.0,26.0,91.0,,,
+948,mattmazur.com,2375.0,15.0,158.0,,,"AI and Machine Learning, Tech Business, Software Engineering, Startups"
+950,verdagon.dev,2372.0,15.0,158.0,Evan Ovadia,Software architect and lead of Vale Language,"Programming Languages, Software Engineering, Computer Science"
+951,rsms.me,2372.0,12.0,198.0,,,"Web Development, Programming Languages, Software Engineering, Tech Business"
+952,profgalloway.com,2370.0,21.0,113.0,,,
+953,spinellis.gr,2362.0,20.0,118.0,,,
+957,mozillagfx.wordpress.com,2355.0,11.0,214.0,,,"Web Development, Performance Optimization, Software Engineering, Open Source Software"
+959,blog.liw.fi,2349.0,12.0,196.0,,,"Open Source Software, Operating Systems, Software Engineering, Cybersecurity"
+961,windows93.net,2349.0,6.0,392.0,,,"Operating Systems, Gaming and Retro Computing, Tech Culture"
+962,musclewiki.com,2348.0,4.0,587.0,,,
+963,groovehq.com,2346.0,19.0,123.0,,,
+964,timsh.org,2345.0,2.0,1173.0,Tim Sh,Software developer and writer,Mobile Development
+965,defaultnamehere.tumblr.com,2345.0,3.0,782.0,,,"Cybersecurity, Web Development, Reverse engineering, Privacy"
+966,thisworddoesnotexist.com,2344.0,3.0,781.0,,,
+967,regretsy.com,2344.0,3.0,781.0,,,
+968,everydayastronaut.com,2342.0,12.0,195.0,,,Other
+969,pikuma.com,2341.0,11.0,213.0,,,"Computer Science, Hardware and Electronics, Gaming and Retro Computing, Performance Optimization"
+970,bellmar.medium.com,2341.0,21.0,111.0,,,"Software Engineering, Tech Culture, AI and Machine Learning"
+971,nnethercote.github.io,2341.0,15.0,156.0,,,"Reverse engineering, Performance Optimization, Software Engineering, Programming Languages"
+972,rdegges.com,2339.0,24.0,97.0,,,"Software Engineering, Finance and FinTech, Productivity and Tools"
+973,catb.org/~esr,2336.0,23.0,102.0,Eric S. Raymond,Open-source advocate and author,
+974,samy.pl,2336.0,13.0,180.0,,,
+975,nicholas.carlini.com,2335.0,8.0,292.0,,,"AI and Machine Learning, Privacy, Tech Policy, Computer Science"
+976,neelc.org,2334.0,8.0,292.0,Neel Chauhan,Developer and writer,"Open Source Software, Systems Programming, Networking, Software Engineering"
+977,blog.hopefullyuseful.com,2334.0,3.0,778.0,,,"Tech Culture, Software Engineering, Hardware and Electronics, Open Source Software"
+980,ratfactor.com,2330.0,15.0,155.0,Dave Gauer,,"Open Source Software, Web Development, Hardware and Electronics, Reverse engineering"
+981,blog.emojipedia.org,2330.0,12.0,194.0,,,Tech Culture
+983,literaryreview.co.uk,2327.0,46.0,51.0,,,
+984,borncity.com,2326.0,13.0,179.0,,,
+985,prisma.io,2322.0,10.0,232.0,,,
+986,birchtree.me,2322.0,11.0,211.0,,,"Tech Culture, Productivity and Tools"
+987,blog.ericgoldman.org,2319.0,17.0,136.0,,,"Tech Policy, Tech Business, Big Tech"
+988,okmij.org,2317.0,33.0,70.0,,,
+989,pxlnv.com,2317.0,11.0,211.0,,,"Tech Business, Tech Culture, Big Tech, Privacy"
+990,sam.zeloof.xyz,2316.0,6.0,386.0,,,
+991,glyph.twistedmatrix.com,2316.0,20.0,116.0,,,"Software Engineering, Cybersecurity, Open Source Software, Productivity and Tools"
+993,ben-mini.github.io,2310.0,1.0,2310.0,,,"Software Engineering, Data Science, AI and Machine Learning, Productivity and Tools"
+996,blog.sessionstack.com,2304.0,14.0,165.0,,,
+997,people.kernel.org,2303.0,19.0,121.0,,,"Operating Systems, Computer Science, Open Source Software, Software Engineering"
+998,boringtechnology.club,2303.0,4.0,576.0,,,
