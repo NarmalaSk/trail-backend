@@ -14,16 +14,19 @@ import os
 app = Flask(__name__)
 CORS(app)
 
+# Hardcoded Frontend URL
+FRONTEND_BASE_URL = "https://trail-frontend.vercel.app"
 
+# Environment variables
 GITHUB_CLIENT_ID = os.getenv("GITHUB_CLIENT_ID")
 GITHUB_CLIENT_SECRET = os.getenv("GITHUB_CLIENT_SECRET")
 LINKEDIN_CLIENT_ID = os.getenv("LINKEDIN_CLIENT_ID")
 LINKEDIN_CLIENT_SECRET = os.getenv("LINKEDIN_CLIENT_SECRET")
 LINKEDIN_REDIRECT_URI = os.getenv("LINKEDIN_REDIRECT_URI")
+
 # In-memory store for demo
 user_store = {}
 
-# GitHub login redirect
 @app.route('/github/login')
 def github_login():
     return redirect(
@@ -40,9 +43,7 @@ def chatbot_api():
         return jsonify({"error": "No message provided"}), 400
 
     response = get_chatbot_response(message)
-
     return jsonify({"response": response}), 200
-
 
 @app.route('/github/callback')
 def github_callback():
@@ -73,8 +74,7 @@ def github_callback():
     if not username:
         return "Failed to get username", 400
 
-    return redirect(f"http://localhost:3000/dashboard?username={username}&platform=GitHub")
-
+    return redirect(f"{FRONTEND_BASE_URL}/dashboard?username={username}&platform=GitHub")
 
 @app.route('/linkedin/login')
 def linkedin_login():
@@ -120,9 +120,8 @@ def linkedin_callback():
     if not name:
         return "Failed to get user name", 400
 
-    return redirect(f"http://localhost:3000/dashboard?username={name}&platform=LinkedIn")
+    return redirect(f"{FRONTEND_BASE_URL}/dashboard?username={name}&platform=LinkedIn")
 
-# Save user via POST request
 @app.route('/save-user', methods=['POST'])
 def save_user():
     data = request.json
@@ -140,7 +139,7 @@ def save_user():
 def get_users():
     return jsonify(user_store), 200
 
-# --- GitHub Career Analyzer Inline ---
+# GitHub Analyzer
 GITHUB_GRAPHQL_API = "https://api.github.com/graphql"
 GITHUB_REST_API = "https://api.github.com"
 
@@ -227,7 +226,6 @@ class GitHubCareerAnalyzer:
     def process_contributions(self, calendar):
         daily = []
         monthly = defaultdict(int)
-        today = datetime.now(timezone.utc).date()
         for week in calendar["weeks"]:
             for day in week["contributionDays"]:
                 date_str = day["date"]
@@ -260,7 +258,6 @@ class GitHubCareerAnalyzer:
         }
         return summary
 
-# New route: POST /analyze-github
 @app.route('/analyze-github', methods=['POST'])
 def analyze_github():
     data = request.json
@@ -277,7 +274,7 @@ def analyze_github():
     result = loop.run_until_complete(analyzer.analyze())
     loop.close()
 
-    print("✅ Analysis Result:", result)  # Log in console
+    print("✅ Analysis Result:", result)
     return jsonify(result), 200
 
 if __name__ == '__main__':
